@@ -1,0 +1,11 @@
+### Hints for the homeworks:
+ - On total you can get 10 points for fully completing all tasks.
+ - Decorate your notebook with, questions, explanation etc, make it self contained and understandable!
+ - Comments you code when necessary
+ - Write functions for repetitive tasks!
+ - Use the pandas package for data loading and handling
+ - Use matplotlib and seaborn for plotting or bokeh and plotly for interactive investigation
+ - Use the scikit learn package for almost everything
+ - Use for loops only if it is really necessary!
+ - Code sharing is not allowed between student! Sharing code will result in zero points.
+ - If you use code found on web, it is OK, but, make its source clear! 
