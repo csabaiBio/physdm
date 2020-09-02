@@ -1,27 +1,13 @@
-## Data mining and machine learning course for physics MSc students
+Course requirements and deatils can be found on the first slides of the first lecture.
 
-### Lecture slides:
+### Lecture materials:
+- 01 Course introduction [slides](http://patbaa.web.elte.hu/physdm/slides/) [video recording](http://patbaa.web.elte.hu/physdm/video/)
 
-- [00 Requirements ](http://dkrib.web.elte.hu/datamining/slides/00_intro.pdf)
-
-### Lab assignments 
-
-- [01 Unsupervised learning and clustering ](lab/01_unsup_clust.md)
+### Lab materials: 
+- 01 Kooplex, [code example](lab/) [video](http://patbaa.web.elte.hu/physdm/video/)
 
 ---
 
 [Formal requirements for assigments.](lab/assignments.md) 
-
----
-
-### Solution for this year  (quick and dirty, do not expect explanations)
-
-- [01 Unsupervised learning and clustering ](https://github.com/riblidezso/physdm/blob/master/examples/01_unsup_cluster/solution_assignment1.py)
-
----
-
-### Worked out example notebooks, old assignment solutions
-
-- [01 Unsupervised learning and clustering ](https://nbviewer.jupyter.org/github/riblidezso/physdm/blob/master/examples/01_unsup_cluster/01_unsup_cluster_2018_example_solution.ipynb)
 
 ---
