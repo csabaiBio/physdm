@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: [Data mining and machine learning course (dsminingf17vm)]
 description: [ELTE physicist MSc]
+github:
+  is_project_page: false
