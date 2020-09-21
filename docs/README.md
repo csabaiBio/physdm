@@ -5,12 +5,13 @@
 ### Lecture materials:
 - 01 Course introduction [slides](http://patbaa.web.elte.hu/physdm/slides/01_introduction.pdf), [video recording](https://youtu.be/ga2L_aCEepA)
 - 02 Unsupervised & clustering [slides](http://patbaa.web.elte.hu/physdm/slides/02_unsupervised.pdf), [video recording](https://youtu.be/xze2tSVG1vg)
+- 03 Supervised learning [slides](http://patbaa.web.elte.hu/physdm/slides/03_supervised.pdf), [video recording](https://youtu.be/EdwHxZ70Jtw)
 
 
 ### Lab materials: 
 - 01 Kooplex [code example](http://patbaa.web.elte.hu/physdm/code_examples/01_data_handling_examples.html), [video](https://youtu.be/_p44uEXsX94)
 - 02 HW1 solution & code example [HW1 solution](http://patbaa.web.elte.hu/physdm/code_examples/01_SOLVED_EDA.html), [code example](http://patbaa.web.elte.hu/physdm/code_examples/02_code_example.html), [video](https://youtu.be/3KlphNDTeTk)
-
+- 03 [HW2 solution](http://patbaa.web.elte.hu/physdm/code_examples/SOLVED_02_unsup_cluster.html), [video](https://youtu.be/HSzz7hv5a68)
 
 
 ---
