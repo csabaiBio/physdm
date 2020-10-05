@@ -16,7 +16,7 @@
 - 02 HW1 solution & code example [HW1 solution](http://patbaa.web.elte.hu/physdm/code_examples/01_SOLVED_EDA.html), [code example](http://patbaa.web.elte.hu/physdm/code_examples/02_code_example.html), [video](https://youtu.be/3KlphNDTeTk)
 - 03 [HW2 solution](http://patbaa.web.elte.hu/physdm/code_examples/SOLVED_02_unsup_cluster.html), [video](https://youtu.be/HSzz7hv5a68)
 - 04 [HW3 solution](http://patbaa.web.elte.hu/physdm/hw_solutions/SOLVED_03_knn.html), [video](https://youtu.be/g913s83dBaQ)
-- 05 [HW4 solution](http://patbaa.web.elte.hu/physdm/hw_solutions/SOLVED_04_linreg.html), [model zoo](http://patbaa.web.elte.hu/physdm/code_examples/ML_model_zoo.html), [video](https://youtu.be/YoUcgZPL0yI)
+- 05 [HW4 solution](http://patbaa.web.elte.hu/physdm/hw_solutions/04_SOLVED_linreg.html), [model zoo](http://patbaa.web.elte.hu/physdm/code_examples/ML_model_zoo.html), [video](https://youtu.be/YoUcgZPL0yI)
 
 
 ---
