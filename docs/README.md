@@ -9,8 +9,7 @@
 - 04 Linear regression [slides](http://patbaa.web.elte.hu/physdm/slides/04_linreg.pdf), [video recording](https://youtu.be/WwqdGvbshBQ)
 - 05 Linear methods for classification [slides](http://patbaa.web.elte.hu/physdm/slides/05_lincls.pdf), [video recording](https://youtu.be/5nEIJ-5xwAU)
 - 06 Regularization, model selection [slides](http://patbaa.web.elte.hu/physdm/slides/06_reg_selection.pdf), [video recording](https://youtu.be/hI-Mr9YXTrs)
-
-
+- 07 SVM [slides](http://patbaa.web.elte.hu/physdm/slides/07_svm.pdf), [video recording](https://youtu.be/c_E2bryfmJA)
 
 
 ### Lab materials: 
@@ -20,6 +19,8 @@
 - 04 [HW3 solution](http://patbaa.web.elte.hu/physdm/hw_solutions/SOLVED_03_knn.html), [video](https://youtu.be/g913s83dBaQ)
 - 05 [HW4 solution](http://patbaa.web.elte.hu/physdm/hw_solutions/04_SOLVED_linreg.html), [model zoo](http://patbaa.web.elte.hu/physdm/code_examples/ML_model_zoo.html), [video](https://youtu.be/YoUcgZPL0yI)
 - 06 [HW5 solution](http://patbaa.web.elte.hu/physdm/hw_solutions/05_SOLVED_logreg.html), [code example](http://patbaa.web.elte.hu/physdm/code_examples/model_regularization.html), [video](https://youtu.be/Zxa_XlbRFFg)
+- 07 [HW6 solution](http://patbaa.web.elte.hu/physdm/hw_solutions/06_solution.html), [code example](http://patbaa.web.elte.hu/physdm/code_examples/svm_examples.html), [video](https://youtu.be/YIxQ3rTYHL0)
+
 
 
 ---
