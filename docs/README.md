@@ -21,7 +21,7 @@
 - 05 [HW4 solution](http://patbaa.web.elte.hu/physdm/hw_solutions/04_SOLVED_linreg.html), [model zoo](http://patbaa.web.elte.hu/physdm/code_examples/ML_model_zoo.html), [video](https://youtu.be/YoUcgZPL0yI)
 - 06 [HW5 solution](http://patbaa.web.elte.hu/physdm/hw_solutions/05_SOLVED_logreg.html), [code example](http://patbaa.web.elte.hu/physdm/code_examples/model_regularization.html), [video](https://youtu.be/Zxa_XlbRFFg)
 - 07 [HW6 solution](http://patbaa.web.elte.hu/physdm/hw_solutions/06_solution.html), [code example](http://patbaa.web.elte.hu/physdm/code_examples/svm_examples.html), [video](https://youtu.be/YIxQ3rTYHL0)
-- 08 [HW7 solution](http://patbaa.web.elte.hu/physdm/hw_solutions/lab07_solved.html), [code example](http://patbaa.web.elte.hu/physdm/code_examples/treeexamples.html), [video](https://youtu.be/FOcnk7m_cAQ)
+- 08 [HW7 solution](http://patbaa.web.elte.hu/physdm/hw_solutions/lab07_solved.html), [code example](http://patbaa.web.elte.hu/physdm/code_examples/tree_examples.html), [video](https://youtu.be/FOcnk7m_cAQ)
 
 
 
