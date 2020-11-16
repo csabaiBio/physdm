@@ -12,7 +12,7 @@
 - 07 SVM [slides](http://patbaa.web.elte.hu/physdm/slides/07_svm.pdf), [video recording](https://youtu.be/c_E2bryfmJA)
 - 08 Tree models [slides](http://patbaa.web.elte.hu/physdm/slides/08_dectree_rf.pdf), [video recording](https://youtu.be/1_tGm3DvQeY)
 - 09 Fully connected neural networks [slides](http://patbaa.web.elte.hu/physdm/slides/09_neural_networks.pdf), [video recording](https://youtu.be/OqDuM3vgNy4)
-
+- 10 Convolutional neural networks [slides](http://patbaa.web.elte.hu/physdm/slides/10_conv_nn.pdf), [video recording](https://youtu.be/kX8fLOT-uyE)
 
 
 ### Lab materials: 
@@ -25,7 +25,7 @@
 - 07 [HW6 solution](http://patbaa.web.elte.hu/physdm/hw_solutions/06_solution.html), [code example](http://patbaa.web.elte.hu/physdm/code_examples/svm_examples.html), [video](https://youtu.be/YIxQ3rTYHL0)
 - 08 [HW7 solution](http://patbaa.web.elte.hu/physdm/hw_solutions/lab07_solved.html), [code example](http://patbaa.web.elte.hu/physdm/code_examples/tree_examples.html), [video](https://youtu.be/FOcnk7m_cAQ)
 - 09 [HW8 solution](http://patbaa.web.elte.hu/physdm/hw_solutions/08_SOLVED_tree_models_hw.html), [code example](http://patbaa.web.elte.hu/physdm/code_examples/fully_connected.html), [video](https://youtu.be/y9RF1JJ2d1k)
-
+- 10 [HW9 solution](http://patbaa.web.elte.hu/physdm/hw_solutions/09_SOLVED_nn_hw.html), [video](https://youtu.be/lxTcRQ1wpwQ), HW10 [html](http://patbaa.web.elte.hu/physdm/code_examples/10_cnn_hw.html), [ipynb](http://patbaa.web.elte.hu/physdm/code_examples/10_cnn_hw.ipynb), [code example](https://colab.research.google.com/github/patbaa/demo_notebooks/blob/master/first_cnn.ipynb)
 
 
 
