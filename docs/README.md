@@ -14,6 +14,8 @@
 - 09 Fully connected neural networks [slides](http://patbaa.web.elte.hu/physdm/slides/09_neural_networks.pdf), [video recording](https://youtu.be/OqDuM3vgNy4)
 - 10 Convolutional neural networks [slides](http://patbaa.web.elte.hu/physdm/slides/10_conv_nn.pdf), [video recording](https://youtu.be/kX8fLOT-uyE)
 - 11 More neural networks [slides](http://patbaa.web.elte.hu/physdm/slides/11_more_nn.pdf), [video recording](https://youtu.be/QrGLbeccFaQ)
+- 12 Word embedding, RNNs [slides](http://patbaa.web.elte.hu/physdm/slides/12_nlp.pdf), [video recording](https://youtu.be/3jfT2ei5HiE)
+
 
 
 
@@ -29,6 +31,7 @@
 - 09 [HW8 solution](http://patbaa.web.elte.hu/physdm/hw_solutions/08_SOLVED_tree_models_hw.html), [code example](http://patbaa.web.elte.hu/physdm/code_examples/fully_connected.html), [video](https://youtu.be/y9RF1JJ2d1k)
 - 10 [HW9 solution](http://patbaa.web.elte.hu/physdm/hw_solutions/09_SOLVED_nn_hw.html), [video](https://youtu.be/lxTcRQ1wpwQ), HW10 [html](http://patbaa.web.elte.hu/physdm/code_examples/10_cnn_hw.html), [ipynb](http://patbaa.web.elte.hu/physdm/code_examples/10_cnn_hw.ipynb), [code example](https://colab.research.google.com/github/patbaa/demo_notebooks/blob/master/first_cnn.ipynb)
 - 11 [HW10 solution](http://patbaa.web.elte.hu/physdm/code_examples/lab10_solution.html), [video](https://youtu.be/XpRPfOHR0AI), HW11 [html](http://patbaa.web.elte.hu/physdm/code_examples/hw11.html), [ipynb](http://patbaa.web.elte.hu/physdm/code_examples/hw11.ipynb), [inference example](https://colab.research.google.com/github/patbaa/demo_notebooks/blob/master/cnn_inference.ipynb), [finetune example](https://colab.research.google.com/github/patbaa/demo_notebooks/blob/master/cnn_fine_tuning.ipynb) 
+- 12 [HW11 solution](https://gist.github.com/qbeer/43b11429febe395dd860a20196c0510a), [video](https://youtu.be/tWsFG8YBn7Y), HW12 [html](http://patbaa.web.elte.hu/physdm/code_examples/hw12.html), [ipynb](http://patbaa.web.elte.hu/physdm/code_examples/hw12.ipynb), word2vec [nb1](https://github.com/patbaa/demo_notebooks/blob/master/train_word2vec.ipynb), [nb2](https://github.com/patbaa/demo_notebooks/blob/master/play_word2vec.ipynb) 
 
 
 
