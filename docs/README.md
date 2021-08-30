@@ -1,6 +1,6 @@
- - Course requirements and deatils can be found on the first slides of the first lecture.
- - Kooplex - [https://kooplex-edu.elte.hu/hub](https://kooplex-edu.elte.hu/hub)
- - Lectures and labs are held on the University's [Microsoft TEAMS platform](http://portal.office.com/) where you can log-in with your ELTE account
+ - Homeworks should be uploaded to Kooplex before due date (hard requirement) - [https://kooplex-edu.elte.hu/hub](https://kooplex-edu.elte.hu/hub)
+ - Lecture: Tuesday (Északi Tömb 4.95) 9:00-10:00 [1 hour lecture!]
+ - Lab: Friday (Északi Tömb 5.56 - Információtechnológiai laboratórium) 8:30-10:00
 
 ### Lecture materials:
 - 01 Course introduction
@@ -27,6 +27,25 @@
 
 ---
 
-[Formal requirements for assigments.](lab/assignments.md) 
+### Requirements
+
+Grading:
+
+
+***80%: Weekly homeworks, 10 point for each. Will be checked offline.***
+
+Must be submitted until Sunday 23:59 on the same week (will be handed out on Monday).
+Platform: https://kooplex-edu.elte.hu/hub 
+
+
+***20%: Data mining project with written report @ the end of the semester:***
+
+Dataset will be provided OR custom datasets that fit your interest are welcome!
+You need to analyze, come up with ideas how and what to model on the data.
+Perform meaningful supervised learning task and unsupervies exploration.
+Write ~ 5 pages PDF report (wo/ code)
+Deadline: 17th December: ~5 page written report
+
+[Formal requirements for the assigments.](lab/assignments.md) 
 
 ---
