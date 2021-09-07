@@ -20,7 +20,7 @@
 
 
 ### Lab materials: 
-- 01 Kooplex [code example](http://patbaa.web.elte.hu/physdm/code_examples/01_data_handling_examples.html)
+- 01 Kooplex [code example](http://patbaa.web.elte.hu/physdm/code_examples/01_data_handling_examples.html), [HW 1](https://gist.github.com/qbeer/a7b26bcbc56a63f32097e52738f57a76) due date: 2021. 09. 16. 23:59, upload to Kooplex (!)
 
 
 
