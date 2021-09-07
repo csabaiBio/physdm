@@ -3,7 +3,7 @@
  - Lab: Friday (Északi Tömb 5.56 - Információtechnológiai laboratórium) 8:30-10:00
 
 ### Lecture materials:
-- 01 Course introduction
+- 01 [Course introduction](https://docs.google.com/presentation/d/1DP86slfNUrP4JgOh1aQSDUdtzhNTfruM/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)
 - 02 Unsupervised & clustering
 - 03 Supervised learning
 - 04 Linear regression
