@@ -1,6 +1,6 @@
  - Homeworks should be uploaded to Kooplex before due date (hard requirement) - [https://kooplex-edu.elte.hu/hub](https://kooplex-edu.elte.hu/hub)
- - Lecture: Tuesday (Északi Tömb 4.95) 9:00-10:00 [1 hour lecture!]
- - Lab: Friday (Északi Tömb 5.56 - Információtechnológiai laboratórium) 8:30-10:00
+ - Lecture: Tuesday (Északi Tömb 4.95-4.96 -> bring laptops if possible) 9:00-10:00 [1 hour lecture!]
+ - Lab: Friday (Északi Tömb 5.56 - Információtechnológiai laboratórium AND Északi Tömb 6.104 -> **meeting point at 5.56**) 8:30-10:00
 
 ### Lecture materials:
 - 01 [Course introduction](https://docs.google.com/presentation/d/1DP86slfNUrP4JgOh1aQSDUdtzhNTfruM/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)
@@ -17,12 +17,8 @@
 - 12 Word embedding, RNNs
 
 
-
-
 ### Lab materials: 
 - 01 Kooplex [code example](http://patbaa.web.elte.hu/physdm/code_examples/01_data_handling_examples.html), [HW 1](https://gist.github.com/qbeer/a7b26bcbc56a63f32097e52738f57a76) due date: 2021. 09. 16. 23:59, upload to Kooplex (!)
-
-
 
 
 ---
