@@ -4,7 +4,7 @@
 
 ### Lecture materials:
 - 01 [Course introduction](https://docs.google.com/presentation/d/1DP86slfNUrP4JgOh1aQSDUdtzhNTfruM/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)
-- 02 Unsupervised & clustering
+- 02 [Unsupervised & clustering](https://docs.google.com/presentation/d/1a4OSDMFy3m3gbvH_2L45jl1nvBV9fwhV/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)
 - 03 Supervised learning
 - 04 Linear regression
 - 05 Linear methods for classification
@@ -18,8 +18,8 @@
 
 
 ### Lab materials: 
-- 01 Kooplex [code example](http://patbaa.web.elte.hu/physdm/code_examples/01_data_handling_examples.html), [HW 1](https://gist.github.com/qbeer/a7b26bcbc56a63f32097e52738f57a76) due date: 2021. 09. 16. 23:59, upload to Kooplex (!)
-
+- 01 Kooplex [code example](http://patbaa.web.elte.hu/physdm/code_examples/01_data_handling_examples.html), [HW 1](https://gist.github.com/qbeer/a7b26bcbc56a63f32097e52738f57a76) due date: 2021. 09. 16. 23:59, send in email to olaralex@student.elte.hu -> Jupyter notebook
+- 02 [HW 2](https://gist.github.com/qbeer/370770dacb737a35fb06725b69a13c05), [dataset](https://gist.github.com/qbeer/2b3e272c59c104dd7a51df4f1d77e9e1) -> sadly we can't make it available on Kooplex yet :(
 
 ---
 
@@ -30,7 +30,7 @@ Grading:
 
 ***80%: Weekly homeworks, 10 point for each. Will be checked offline.***
 
-Must be submitted until Sunday 23:59 on the same week (will be handed out on Monday).
+Must be submitted until Thursday 23:59 on the same week (will be handed out on Monday).
 Platform: https://kooplex-edu.elte.hu/hub 
 
 
