@@ -2,6 +2,10 @@
  - Lecture: Tuesday (Északi Tömb 4.95-4.96 -> bring laptops if possible) 9:00-10:00 [1 hour lecture!]
  - Lab: Friday (Északi Tömb 5.56 - Információtechnológiai laboratórium AND Északi Tömb 6.104 -> **meeting point at 5.56**) 8:30-10:00 [***MANDATORY!***]
 
+#### Points
+
+[Point table so far](https://docs.google.com/spreadsheets/d/18_1CZ_MCKDstb0MRSP2crapmFvPGJxZkqB_Tp-KJ_3g/edit?usp=sharing)
+
 ### Lecture materials:
 - 01 [Course introduction](https://docs.google.com/presentation/d/1DP86slfNUrP4JgOh1aQSDUdtzhNTfruM/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)
 - 02 [Unsupervised & clustering](https://docs.google.com/presentation/d/1a4OSDMFy3m3gbvH_2L45jl1nvBV9fwhV/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)
