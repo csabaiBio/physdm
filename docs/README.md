@@ -10,7 +10,7 @@
 - 01 [Course introduction](https://docs.google.com/presentation/d/1DP86slfNUrP4JgOh1aQSDUdtzhNTfruM/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)
 - 02 [Unsupervised & clustering](https://docs.google.com/presentation/d/1a4OSDMFy3m3gbvH_2L45jl1nvBV9fwhV/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)
 - 03 [Supervised learning](https://docs.google.com/presentation/d/1OFhtZAnDHPFE5-q3DwA-MGlyVlF4kF80/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)
-- 04 Linear regression
+- 04 [Linear regression](https://docs.google.com/presentation/d/13kZ1kwNrlbuA6B5Ax-YCrjCuN7Db48Ed/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)
 - 05 Linear methods for classification
 - 06 Regularization, model selection
 - 07 SVM
