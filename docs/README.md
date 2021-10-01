@@ -24,7 +24,7 @@
 ### Lab materials: 
 - 01 Kooplex [code example](http://patbaa.web.elte.hu/physdm/code_examples/01_data_handling_examples.html), [HW 1](https://gist.github.com/qbeer/a7b26bcbc56a63f32097e52738f57a76) due date: 2021. 09. 16. 23:59, send in email to olaralex@student.elte.hu -> Jupyter notebook, [solution](http://patbaa.web.elte.hu/physdm/code_examples/01_SOLVED_EDA.html)
 - 02 [HW 2](https://gist.github.com/qbeer/370770dacb737a35fb06725b69a13c05), [dataset](https://gist.github.com/qbeer/2b3e272c59c104dd7a51df4f1d77e9e1) due date: 2021. 09. 23. 23:59, send in email to olaralex@student.elte.hu -> Jupyter notebook, [solution](https://gist.github.com/qbeer/a43b741b36091a974c45e0dc80652d90)
-- 03 [HW 3](https://gist.github.com/qbeer/22fe5333a1bd5c329fc2982d7dc5f7e0), [dataset](https://gist.github.com/qbeer/1a52e2dc7cdd1722e06e07a52548a562) due date: 2021. 09. 30. 23:59, send in email to olaralex@student.elte.hu -> Jupyter notebook
+- 03 [HW 3](https://gist.github.com/qbeer/22fe5333a1bd5c329fc2982d7dc5f7e0), [dataset](https://gist.github.com/qbeer/1a52e2dc7cdd1722e06e07a52548a562) due date: 2021. 09. 30. 23:59, send in email to olaralex@student.elte.hu -> Jupyter notebook, [solution](https://gist.github.com/udvzol/63f79c574a88500480846805e9681af5#file-lab03-ipynb)
 - 04 [HW4](https://gist.github.com/qbeer/6bcdfa258286bdb92f370a6146260795), [datasets](https://drive.google.com/drive/folders/1KoYjstAXfVLkw6k_xsQnv_HT4rnanrC4?usp=sharing) due date: 2021. 10. 07. 23:59, send in email to olaralex@student.elte.hu -> Jupyter notebook
 
 ---
