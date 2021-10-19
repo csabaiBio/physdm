@@ -19,7 +19,7 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: ola
 - 04 [Linear regression](https://docs.google.com/presentation/d/13kZ1kwNrlbuA6B5Ax-YCrjCuN7Db48Ed/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)
 - 05 [Linear methods for classification](https://docs.google.com/presentation/d/1Fc1wNDE2DLFG99b4SuelR6EHmFFUSatH/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)
 - 06 [Regularization, model selection](https://docs.google.com/presentation/d/18rQlVV7CGt53T2dMoGNNMinQ71cvWTnc/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)
-- 07 SVM
+- 07 [SVM](https://docs.google.com/presentation/d/1W7oHK418W3WF8p3RCgyaQdw59YSHLDZb/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)
 - 08 Tree models
 - 09 Fully connected neural networks
 - 10 Convolutional neural networks
