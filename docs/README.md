@@ -20,7 +20,7 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: ola
 - 05 [Linear methods for classification](https://docs.google.com/presentation/d/1Fc1wNDE2DLFG99b4SuelR6EHmFFUSatH/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)
 - 06 [Regularization, model selection](https://docs.google.com/presentation/d/18rQlVV7CGt53T2dMoGNNMinQ71cvWTnc/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)
 - 07 [SVM](https://docs.google.com/presentation/d/1W7oHK418W3WF8p3RCgyaQdw59YSHLDZb/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)
-- 08 Tree models
+- 08 [Tree models](https://docs.google.com/presentation/d/1y6ye3XaeHj7LA0vs53EJwXs6QBhW971F/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)
 - 09 Fully connected neural networks
 - 10 Convolutional neural networks
 - 11 More neural networks
@@ -35,6 +35,7 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: ola
 - 05 [HW5](https://gist.github.com/qbeer/c7630c11339b659843e32e39eb732e42), [dataset](https://docs.google.com/spreadsheets/d/19cF1ghpHBN87XHSh1VkHGO29xG6qULfP/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) due date: 2021. 10. 14. 23:59, send in email to olaralex@student.elte.hu -> Jupyter notebook, [solution](https://gist.github.com/qbeer/9a831895cf4c81683eafebc398592731)
 - 06 [HW6](https://gist.github.com/qbeer/07eb98879a555a676b6da86ea8cd7f9e), [code example](http://patbaa.web.elte.hu/physdm/code_examples/model_regularization.html) due date: 2021. 10. 21. 23:59, send in email to olaralex@student.elte.hu -> Jupyter notebook, **this is a slightly harder homework, be sure to start as soon as possible (!)**
 - 07 [HW7](https://gist.github.com/qbeer/545fa2d88e7541f81a137f6d0363e6c9), [code example](http://patbaa.web.elte.hu/physdm/code_examples/svm_examples.html) due date: 2021. 11. 04. 23:59, send in email to olaralex@student.elte.hu
+- 08 [HW8](https://gist.github.com/masterdesky/f5d057a1480ee9e821a400dfdc2e01ba) due date: 2021. 11. 11. 23:59
 
 ---
 
