@@ -36,7 +36,7 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: ola
 - 06 [HW6](https://gist.github.com/qbeer/07eb98879a555a676b6da86ea8cd7f9e), [code example](http://patbaa.web.elte.hu/physdm/code_examples/model_regularization.html) due date: 2021. 10. 21. 23:59, send in email to olaralex@student.elte.hu -> Jupyter notebook, **this is a slightly harder homework, be sure to start as soon as possible (!)**
 - 07 [HW7](https://gist.github.com/qbeer/545fa2d88e7541f81a137f6d0363e6c9), [code example](http://patbaa.web.elte.hu/physdm/code_examples/svm_examples.html) due date: 2021. 11. 04. 23:59, send in email to olaralex@student.elte.hu
 - 08 [HW8](https://gist.github.com/masterdesky/f5d057a1480ee9e821a400dfdc2e01ba) due date: 2021. 11. 11. 23:59, send in email to olaralex@student.elte.hu
-- 09 [HW9](https://gist.github.com/qbeer/1df46c5028ad976dcf497f8117046830), [code example](https://patbaa.web.elte.hu/physdm/code_examples/fully_connected.html), [data](https://drive.google.com/drive/u/0/folders/1R22YxiBaEjb5UvEaTmLh88NUcYlHfVRt) due date: 2021. 11. 18. 23:59, send in email to olaralex@student.elte.hu, **the first task is a bit tricky, afterwards the problems get easier, start as soon as possible**
+- 09 [HW9](https://gist.github.com/qbeer/1df46c5028ad976dcf497f8117046830), [code example](https://patbaa.web.elte.hu/physdm/code_examples/fully_connected.html), [data](https://drive.google.com/drive/folders/1R22YxiBaEjb5UvEaTmLh88NUcYlHfVRt?usp=sharing) due date: 2021. 11. 18. 23:59, send in email to olaralex@student.elte.hu, **the first task is a bit tricky, afterwards the problems get easier, start as soon as possible**
 
 ---
 
