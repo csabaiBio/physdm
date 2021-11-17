@@ -37,7 +37,7 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: ola
 - 07 [HW7](https://gist.github.com/qbeer/545fa2d88e7541f81a137f6d0363e6c9), [code example](http://patbaa.web.elte.hu/physdm/code_examples/svm_examples.html) due date: 2021. 11. 04. 23:59, send in email to olaralex@student.elte.hu, [solution](https://drive.google.com/file/d/1Y5U_Rpw-o3cOQ2XNxs0oTbTzMQAfeMdh/view?usp=sharing)
 - 08 [HW8](https://gist.github.com/masterdesky/f5d057a1480ee9e821a400dfdc2e01ba) due date: 2021. 11. 11. 23:59, send in email to olaralex@student.elte.hu
 - 09 [HW9](https://gist.github.com/qbeer/1df46c5028ad976dcf497f8117046830), [code example](https://patbaa.web.elte.hu/physdm/code_examples/fully_connected.html), [data](https://drive.google.com/drive/folders/1R22YxiBaEjb5UvEaTmLh88NUcYlHfVRt?usp=sharing) due date: 2021. 11. 18. 23:59, send in email to olaralex@student.elte.hu, **the first task is a bit tricky, afterwards the problems get easier, start as soon as possible**
-- 10 [HW10](https://gist.github.com/masterdesky/bcb73bd26a578e197e1bbdb0e4a2b417) due date: 2021. 11. 25. 23:59, send in email to olaralex@student.elte.hu
+- 10 [HW10](https://gist.github.com/masterdesky/bcb73bd26a578e197e1bbdb0e4a2b417), [Kaggle dataset](https://www.kaggle.com/masterdesky/multiband-photoz-sdss-dr16) due date: 2021. 11. 25. 23:59, send in email to olaralex@student.elte.hu
 
 ---
 
