@@ -57,7 +57,7 @@ Dataset will be provided OR custom datasets that fit your interest are welcome!
 You need to analyze, come up with ideas how and what to model on the data.
 Perform meaningful supervised learning task and unsupervised exploration.
 Write ~ 5 pages PDF report (wo/ code)
-Deadline: 10th December: ~5 page written report
+Deadline: 17th December: ~5 page written report
 
 [Formal requirements for the assigments.](lab/assignments.md) 
 
