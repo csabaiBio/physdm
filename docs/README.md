@@ -40,9 +40,9 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: ola
 | 07 | [code example](http://patbaa.web.elte.hu/physdm/code_examples/svm_examples.html) | [HW7](https://gist.github.com/qbeer/545fa2d88e7541f81a137f6d0363e6c9) | due date: 2021. 11. 04. 23:59, send in email to olaralex@student.elte.hu | [solution](https://olaralex.com/assets/static/svm)|
 | 08 | - | [HW8](https://gist.github.com/masterdesky/f5d057a1480ee9e821a400dfdc2e01ba) | due date: 2021. 11. 11. 23:59, send in email to olaralex@student.elte.hu | [solution](https://gist.github.com/masterdesky/8774fed42370f72b358139155b6f02ff) |
 | 09 | [code example](https://patbaa.web.elte.hu/physdm/code_examples/fully_connected.html), [data](https://drive.google.com/drive/folders/1R22YxiBaEjb5UvEaTmLh88NUcYlHfVRt?usp=sharing), **the first task is a bit tricky, afterwards the problems get easier, start as soon as possible** | [HW9](https://gist.github.com/qbeer/1df46c5028ad976dcf497f8117046830) | due date: 2021. 11. 18. 23:59, send in email to olaralex@student.elte.hu | [solution](https://gist.github.com/qbeer/049fb4cfdc2072a18f6071aa7527d61b) |
-| 10 |[Kaggle dataset](https://www.kaggle.com/masterdesky/multiband-photoz-sdss-dr16) | [HW10](https://gist.github.com/masterdesky/bcb73bd26a578e197e1bbdb0e4a2b417) | due date: 2021. 11. 25. 23:59, send in email to olaralex@student.elte.hu | N/A |
+| 10 |[Kaggle dataset](https://www.kaggle.com/masterdesky/multiband-photoz-sdss-dr16) | [HW10](https://gist.github.com/masterdesky/bcb73bd26a578e197e1bbdb0e4a2b417) | due date: 2021. 11. 25. 23:59, send in email to olaralex@student.elte.hu | [solution](https://gist.github.com/masterdesky/05e19a1f45b8002fcf2592893dfbc503) |
 | 11 | **last mandatory homework, next one will be for extra points** |[HW11](https://gist.github.com/qbeer/74d064ee596744ff4e9c9716922f471b) | due date: 2021. 12. 02. 23:59, send in email to olaralex@student.elte.hu | N/A |
-| 12 | EXTRA | [HW12 (to be released)](#) | N/A |
+| 12 | EXTRA | [HW12](https://gist.github.com/qbeer/e52ec7f519dfc2fa12583fa3b497769d) | due date: 2021. 12. 09. 23:59, send in email to olaralex@student.elte.hu  | N/A |
 
 ---
 
