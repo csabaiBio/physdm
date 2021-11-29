@@ -42,7 +42,7 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: ola
 | 09 | [code example](https://patbaa.web.elte.hu/physdm/code_examples/fully_connected.html), [data](https://drive.google.com/drive/folders/1R22YxiBaEjb5UvEaTmLh88NUcYlHfVRt?usp=sharing), **the first task is a bit tricky, afterwards the problems get easier, start as soon as possible** | [HW9](https://gist.github.com/qbeer/1df46c5028ad976dcf497f8117046830) | due date: 2021. 11. 18. 23:59, send in email to olaralex@student.elte.hu | [solution](https://gist.github.com/qbeer/049fb4cfdc2072a18f6071aa7527d61b) |
 | 10 |[Kaggle dataset](https://www.kaggle.com/masterdesky/multiband-photoz-sdss-dr16) | [HW10](https://gist.github.com/masterdesky/bcb73bd26a578e197e1bbdb0e4a2b417) | due date: 2021. 11. 25. 23:59, send in email to olaralex@student.elte.hu | [solution](https://gist.github.com/masterdesky/05e19a1f45b8002fcf2592893dfbc503) |
 | 11 | **last mandatory homework, next one will be for extra points** |[HW11](https://gist.github.com/qbeer/74d064ee596744ff4e9c9716922f471b) | due date: 2021. 12. 02. 23:59, send in email to olaralex@student.elte.hu | N/A |
-| 12 | EXTRA | [HW12](https://gist.github.com/qbeer/e52ec7f519dfc2fa12583fa3b497769d) | due date: 2021. 12. 09. 23:59, send in email to olaralex@student.elte.hu  | N/A |
+| 12 | [GloVe vectors](https://drive.google.com/drive/folders/1-mVb5_DeuJcDGrLTMi1R1H3rqsnTusH4?usp=sharing) | [HW12](https://gist.github.com/qbeer/e52ec7f519dfc2fa12583fa3b497769d) | due date: 2021. 12. 09. 23:59, send in email to olaralex@student.elte.hu  | N/A |
 
 ---
 
