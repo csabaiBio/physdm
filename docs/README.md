@@ -42,7 +42,7 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: ola
 | 09 | [code example](https://patbaa.web.elte.hu/physdm/code_examples/fully_connected.html), [data](https://drive.google.com/drive/folders/1R22YxiBaEjb5UvEaTmLh88NUcYlHfVRt?usp=sharing), **the first task is a bit tricky, afterwards the problems get easier, start as soon as possible** | [HW9](https://gist.github.com/qbeer/1df46c5028ad976dcf497f8117046830) | due date: 2021. 11. 18. 23:59, send in email to olaralex@student.elte.hu | [solution](https://gist.github.com/qbeer/049fb4cfdc2072a18f6071aa7527d61b) |
 | 10 |[Kaggle dataset](https://www.kaggle.com/masterdesky/multiband-photoz-sdss-dr16) | [HW10](https://gist.github.com/masterdesky/bcb73bd26a578e197e1bbdb0e4a2b417) | due date: 2021. 11. 25. 23:59, send in email to olaralex@student.elte.hu | [solution](https://gist.github.com/masterdesky/05e19a1f45b8002fcf2592893dfbc503) |
 | 11 | **last mandatory homework, next one will be for extra points** |[HW11](https://gist.github.com/qbeer/74d064ee596744ff4e9c9716922f471b) | due date: 2021. 12. 02. 23:59, send in email to olaralex@student.elte.hu | [solution](https://gist.github.com/qbeer/43b11429febe395dd860a20196c0510a) |
-| 12 | [GloVe vectors](https://drive.google.com/drive/folders/1-mVb5_DeuJcDGrLTMi1R1H3rqsnTusH4?usp=sharing), **for extra points** | [HW12](https://gist.github.com/qbeer/e52ec7f519dfc2fa12583fa3b497769d) | due date: 2021. 12. 09. 23:59, send in email to olaralex@student.elte.hu  | N/A |
+| 12 | [GloVe vectors](https://drive.google.com/drive/folders/1-mVb5_DeuJcDGrLTMi1R1H3rqsnTusH4?usp=sharing), **for extra points** | [HW12](https://gist.github.com/qbeer/e52ec7f519dfc2fa12583fa3b497769d) | due date: 2021. 12. 09. 23:59, send in email to olaralex@student.elte.hu  | [solution](https://gist.github.com/qbeer/bd9f32eb9f4d29805b8a740f801c215d) |
 
 ---
 
@@ -51,12 +51,12 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: ola
 Grading:
 
 
-***80%: Weekly homeworks, 10 point for each. Will be checked offline.***
+***80%: Weekly homeworks, 10 point for each. Will be checked offline. | 110 points***
 
 Must be submitted until Thursday 23:59 on the same week (will be handed out on Monday).
 
 
-***20%: Data mining project with written report @ the end of the semester:***
+***20%: Data mining project with written report @ the end of the semester. | 27.5 points***
 
 Dataset will be provided OR custom datasets that fit your interest are welcome!
 You need to analyze, come up with ideas how and what to model on the data.
