@@ -20,7 +20,7 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: bed
 
 | Number (#) | misc. | homework | info | solution |
 |:----------:|:-----:|:--------:|:----:|:--------:|
-| 01 | [-]()  | [HW 1]() | due date: 2021. 09. 22. 23:59, send in email to bedohazi@student.elte.hu | [solution]()|
+| 01 | [-]()  | [-]() | due date: 2022. 09. 22. 23:59, send in email to bedohazi@student.elte.hu | [-]()|
 
 
 ---
