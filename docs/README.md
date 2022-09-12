@@ -1,14 +1,14 @@
  - Homeworks could be completed on [Google Colab](https://colab.research.google.com/) or locally on your machine via installing [Anaconda](https://www.anaconda.com/products/individual)
  - Lecture: Monday (North Building -1.63 -> bring laptops if possible) 16:00-17:00 [1 hour lecture!]
- - Lab: Friday (North Building 5.56 - Információtechnológiai laboratórium AND Északi Tömb 6.104 -> **meeting point at 5.56**) 14:00-15:30 [***MANDATORY!***]
+ - Lab: Friday (North Building 5.56 - Információtechnológiai laboratórium) 14:00-15:30 [***MANDATORY!***]
 
-#### Points
+### Points
 
 [Point table so far](https://docs.google.com/spreadsheets/d/1HlFxjEKq6lNyOm1ILxhTE_pG_ji8jClog9N5ifJQBjs/edit?usp=sharing)
 
 #### Project suggestions
 
-Please try to select a dataset based on your personal interest! [LIST](https://docs.google.com/document/d/1gHFF0yp-xVFp4Xi6WBV5r86sF-gQUovsNwjyG2O57So/edit?usp=sharing)
+Please try to select a dataset based on your personal interest! [LIST](https://docs.google.com/document/d/1ScHU3pJNk--AnCQybS5blVszRmATjaWA7HaWDwl8Srk/edit?usp=sharing)
 
 Datasets will be handed out on a 'first come, first served' basis! -> email: bedohazi@student.elte.hu
 
