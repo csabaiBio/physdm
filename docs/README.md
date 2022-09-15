@@ -17,6 +17,7 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: bed
 
 
 ### Lab materials
+**There will be no lab on 16th September!**
 
 | Number (#) | misc. | homework | info | solution |
 |:----------:|:-----:|:--------:|:----:|:--------:|
