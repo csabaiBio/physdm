@@ -20,7 +20,7 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: bed
 
 | Number (#) | misc. | homework | info | solution |
 |:----------:|:-----:|:--------:|:----:|:--------:|
-| 01 | [-]()  | [-]() | due date: 2022. 09. 22. 23:59, send in email to bedohazi@student.elte.hu | [-]()|
+| 01 | [code example](http://patbaa.web.elte.hu/physdm/code_examples/01_data_handling_examples.html)  | [HW 1](https://gist.github.com/qbeer/a7b26bcbc56a63f32097e52738f57a76) | due date: 2022. 09. 22. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [-]()|
 
 
 ---
