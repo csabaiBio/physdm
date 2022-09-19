@@ -13,7 +13,8 @@ Please try to select a dataset based on your personal interest! [LIST](https://d
 Datasets will be handed out on a 'first come, first served' basis! -> email: bedohazi@student.elte.hu
 
 ### Lecture materials:
-- 01 [Course introduction](https://docs.google.com/presentation/d/1AeIk24TLsBeIqFZiObw_sSaFhjJ4Et3qztavSU1sbeM/edit?usp=sharing)
+- 01  [Course introduction](https://docs.google.com/presentation/d/1AeIk24TLsBeIqFZiObw_sSaFhjJ4Et3qztavSU1sbeM/edit?usp=sharing) (2022.09.12)
+- 02 [Unsupervised & clustering](https://docs.google.com/presentation/d/1XWi5F9498P09thyq8-jm4cUG0fvzIF3XWluZmq5CtO8/edit?usp=sharing) (2022.09.19)
 
 
 ### Lab materials
@@ -22,6 +23,7 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: bed
 | Number (#) | misc. | homework | info | solution |
 |:----------:|:-----:|:--------:|:----:|:--------:|
 | 01 | [code example](http://patbaa.web.elte.hu/physdm/code_examples/01_data_handling_examples.html)  | [HW 1](https://gist.github.com/qbeer/a7b26bcbc56a63f32097e52738f57a76) | due date: 2022. 09. 22. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [-]()|
+| 02 | [dataset](https://gist.github.com/bedohazizsolt/e7d727eb290272f23e787be96a414b64)  | [HW 2](https://gist.github.com/bedohazizsolt/9f0f637dedd839e874a05750eacb518b) | due date: 2022. 09. 29. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [-]()|
 
 
 ---
