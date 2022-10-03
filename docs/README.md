@@ -26,7 +26,7 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: bed
 | 01 | [code example](http://patbaa.web.elte.hu/physdm/code_examples/01_data_handling_examples.html)  | [HW 1](https://gist.github.com/qbeer/a7b26bcbc56a63f32097e52738f57a76) | due date: 2022. 09. 22. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [solution](http://patbaa.web.elte.hu/physdm/code_examples/01_SOLVED_EDA.html)|
 | 02 | [dataset](https://gist.github.com/bedohazizsolt/e7d727eb290272f23e787be96a414b64)  | [HW 2](https://gist.github.com/bedohazizsolt/9f0f637dedd839e874a05750eacb518b) | due date: 2022. 09. 29. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [solution](https://gist.github.com/qbeer/a43b741b36091a974c45e0dc80652d90)|
 | 03 | [dataset](https://gist.github.com/bedohazizsolt/315f3758d356b91db492fa502b4ad081)  | [HW 3](https://gist.github.com/bedohazizsolt/b3ad389af64964a8f90f0611b6a5f650) | due date: 2022. 10. 06. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [-]()|
-| 04 | [dataset]()  | [HW 4]() | due date: 2022. 10. 13. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [-]()|
+| 04 | [dataset](https://drive.google.com/drive/folders/1KoYjstAXfVLkw6k_xsQnv_HT4rnanrC4)  | [HW 4](https://gist.github.com/bedohazizsolt/56b3a86a575f3e3227e50644ae4adfe9) | due date: 2022. 10. 13. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [-]()|
 
 ---
 
