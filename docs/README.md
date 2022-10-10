@@ -17,6 +17,7 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: bed
 - 02 [Unsupervised & clustering](https://docs.google.com/presentation/d/1XWi5F9498P09thyq8-jm4cUG0fvzIF3XWluZmq5CtO8/edit?usp=sharing) (2022.09.19.)
 - 03 [Supervised learning](https://docs.google.com/presentation/d/1k1MA6r7SvYRu6bzYfT8uXousPyJlGJfIXAtCJJOWwdo/edit?usp=sharing) (2022.09.26.)
 - 04 [Linear regression](https://docs.google.com/presentation/d/1EWF2-fU4eaaAoWG7ioe2ahCTyvvBkMRHsuYcOtlvNdg/edit?usp=sharing) (2022.10.03.)
+- 05 [Linear methods for classification](https://docs.google.com/presentation/d/12B4O_6x_ZIbL0yQuOrdhFCgzMIUDwQxOPUnOPxmpjZ0/edit?usp=sharing) (2022.10.10.)
 
 ### Lab materials
 **There will be no lab on 16th September!**
@@ -25,8 +26,9 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: bed
 |:----------:|:-----:|:--------:|:----:|:--------:|
 | 01 | [code example](http://patbaa.web.elte.hu/physdm/code_examples/01_data_handling_examples.html)  | [HW 1](https://gist.github.com/qbeer/a7b26bcbc56a63f32097e52738f57a76) | due date: 2022. 09. 22. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [solution](http://patbaa.web.elte.hu/physdm/code_examples/01_SOLVED_EDA.html)|
 | 02 | [dataset](https://gist.github.com/bedohazizsolt/e7d727eb290272f23e787be96a414b64)  | [HW 2](https://gist.github.com/bedohazizsolt/9f0f637dedd839e874a05750eacb518b) | due date: 2022. 09. 29. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [solution](https://gist.github.com/qbeer/a43b741b36091a974c45e0dc80652d90)|
-| 03 | [dataset](https://gist.github.com/bedohazizsolt/315f3758d356b91db492fa502b4ad081)  | [HW 3](https://gist.github.com/bedohazizsolt/b3ad389af64964a8f90f0611b6a5f650) | due date: 2022. 10. 06. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [-]()|
+| 03 | [dataset](https://gist.github.com/bedohazizsolt/315f3758d356b91db492fa502b4ad081)  | [HW 3](https://gist.github.com/bedohazizsolt/b3ad389af64964a8f90f0611b6a5f650) | due date: 2022. 10. 06. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [solution](https://gist.github.com/udvzol/63f79c574a88500480846805e9681af5#file-lab03-ipynb)|
 | 04 | [dataset](https://drive.google.com/drive/folders/1KoYjstAXfVLkw6k_xsQnv_HT4rnanrC4)  | [HW 4](https://gist.github.com/bedohazizsolt/56b3a86a575f3e3227e50644ae4adfe9) | due date: 2022. 10. 13. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [-]()|
+| 05 | [dataset](https://docs.google.com/spreadsheets/d/19cF1ghpHBN87XHSh1VkHGO29xG6qULfP/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)  | [HW 5](https://gist.github.com/qbeer/c7630c11339b659843e32e39eb732e42) | due date: 2022. 10. 20. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [-]()|
 
 ---
 
