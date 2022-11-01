@@ -21,6 +21,7 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: bed
 - 05 [Linear methods for classification](https://docs.google.com/presentation/d/12B4O_6x_ZIbL0yQuOrdhFCgzMIUDwQxOPUnOPxmpjZ0/edit?usp=sharing) (2022.10.10.)
 - 06 [Regularization, model selection](https://docs.google.com/presentation/d/1uNQD2bRQMgbhTHH32tTJPoOHBdUMwkYC85qmm_0Gp6I/edit?usp=sharing) (2022.10.17.)
 - 07 [SVM](https://docs.google.com/presentation/d/1nQqtCdJ7raUf4xZ7xHBgRz1eGpQMu6Gufwqy8GGzoKw/edit?usp=sharing) (2022.10.24.)
+- 08 [Tree models](https://docs.google.com/presentation/d/1kkOTDcFQXKOC3CUyNZdtKfwmizMa6KI_KuWULRG1iSU/edit?usp=sharing) (2022.10.31.)
 
 
 ### Lab materials
@@ -35,6 +36,7 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: bed
 | 05 | [dataset](https://docs.google.com/spreadsheets/d/19cF1ghpHBN87XHSh1VkHGO29xG6qULfP/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)  | [HW 5](https://gist.github.com/qbeer/c7630c11339b659843e32e39eb732e42) | due date: 2022. 10. 20. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [solution](https://gist.github.com/qbeer/9a831895cf4c81683eafebc398592731)|
 | 06 | [code example](http://patbaa.web.elte.hu/physdm/code_examples/model_regularization.html)  | [HW 6](https://gist.github.com/qbeer/07eb98879a555a676b6da86ea8cd7f9e) | due date: 2022. 10. 27. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [solution](https://olaralex.com/assets/static/regression)|
 | 07 | [dataset](https://gist.github.com/bedohazizsolt/8182e3517595bb093e95703a453e3d60), [code example](http://patbaa.web.elte.hu/physdm/code_examples/svm_examples.html)  | [HW 7](https://gist.github.com/bedohazizsolt/26112dcd81da6fd20c23d4eb75185099) | due date: 2022. 11. 03. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [-]()|
+| 08 | [dataset](https://gist.github.com/bedohazizsolt/6391b83460486072dbfc320b14f1679f) | [HW 8](https://gist.github.com/bedohazizsolt/2965c5863df0330c00b5d2f4444ddc91) | due date: 2022. 11. 10. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [-]()|
 
 
 ---
