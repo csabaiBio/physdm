@@ -24,6 +24,7 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: bed
 - 08 [Tree models](https://docs.google.com/presentation/d/1kkOTDcFQXKOC3CUyNZdtKfwmizMa6KI_KuWULRG1iSU/edit?usp=sharing) (2022.10.31.)
 - 09 [Fully connected neural networks](https://docs.google.com/presentation/d/11kwtZrHDGfX0kmHNQHyQsHhU5xgqWplGIaQdhNSHR4k/edit?usp=sharing) (2022.11.07.)
 - 10 [Convolutional neural networks](https://docs.google.com/presentation/d/1X70iVry2ZruFZPobMLSJXstw8d3bj-Vl7UC9dQ5SSec/edit?usp=sharing) (2022.11.14.)
+- 10 [More neural networks](https://docs.google.com/presentation/d/1OHmokXwjopyW3DDUI24o7mpBeRXfZDP1JC3yQeIYU8M/edit?usp=sharing) (2022.11.21.)
 
 
 ### Lab materials
@@ -41,6 +42,7 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: bed
 | 08 | [dataset](https://gist.github.com/bedohazizsolt/6391b83460486072dbfc320b14f1679f) | [HW 8](https://gist.github.com/bedohazizsolt/2965c5863df0330c00b5d2f4444ddc91) | due date: 2022. 11. 10. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [solution](https://gist.github.com/bedohazizsolt/a0e1dc8bd5ef832b72244868e0f27b04)|
 | 09 | [code example](https://patbaa.web.elte.hu/physdm/code_examples/fully_connected.html), [dataset](https://drive.google.com/drive/folders/1R22YxiBaEjb5UvEaTmLh88NUcYlHfVRt) | [HW 9](https://gist.github.com/qbeer/1df46c5028ad976dcf497f8117046830) | due date: 2022. 11. 17. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [solution](https://gist.github.com/qbeer/049fb4cfdc2072a18f6071aa7527d61b)|
 | 10 | [Kaggle dataset](https://www.kaggle.com/masterdesky/multiband-photoz-sdss-dr16) | [HW 10](https://gist.github.com/masterdesky/bcb73bd26a578e197e1bbdb0e4a2b417) | due date: 2022. 11. 24. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [-]()|
+| 11 | []() | [HW 11](https://gist.github.com/qbeer/74d064ee596744ff4e9c9716922f471b) | due date: 2022. 12. 01. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [-]()|
 
 ---
 
