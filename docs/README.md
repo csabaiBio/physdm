@@ -24,7 +24,8 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: bed
 - 08 [Tree models](https://docs.google.com/presentation/d/1kkOTDcFQXKOC3CUyNZdtKfwmizMa6KI_KuWULRG1iSU/edit?usp=sharing) (2022.10.31.)
 - 09 [Fully connected neural networks](https://docs.google.com/presentation/d/11kwtZrHDGfX0kmHNQHyQsHhU5xgqWplGIaQdhNSHR4k/edit?usp=sharing) (2022.11.07.)
 - 10 [Convolutional neural networks](https://docs.google.com/presentation/d/1X70iVry2ZruFZPobMLSJXstw8d3bj-Vl7UC9dQ5SSec/edit?usp=sharing) (2022.11.14.)
-- 10 [More neural networks](https://docs.google.com/presentation/d/1OHmokXwjopyW3DDUI24o7mpBeRXfZDP1JC3yQeIYU8M/edit?usp=sharing) (2022.11.21.)
+- 11 [More neural networks](https://docs.google.com/presentation/d/1OHmokXwjopyW3DDUI24o7mpBeRXfZDP1JC3yQeIYU8M/edit?usp=sharing) (2022.11.21.)
+- 12 [Word embedding, RNNs](https://docs.google.com/presentation/d/1x6cF4ItJWcUDs3M1nTdCG4GU_d5nUUOkT-GhU5x8vnI/edit?usp=sharing) - [example1](https://github.com/patbaa/demo_notebooks/blob/master/train_word2vec.ipynb), [example2](https://github.com/patbaa/demo_notebooks/blob/master/play_word2vec.ipynb) (2022.11.28.)
 
 
 ### Lab materials
@@ -41,8 +42,9 @@ Datasets will be handed out on a 'first come, first served' basis! -> email: bed
 | 07 | [dataset](https://gist.github.com/bedohazizsolt/8182e3517595bb093e95703a453e3d60), [code example](http://patbaa.web.elte.hu/physdm/code_examples/svm_examples.html)  | [HW 7](https://gist.github.com/bedohazizsolt/26112dcd81da6fd20c23d4eb75185099) | due date: 2022. 11. 03. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [solution](https://gist.github.com/bedohazizsolt/240687c160b55d5441c9029001d71689)|
 | 08 | [dataset](https://gist.github.com/bedohazizsolt/6391b83460486072dbfc320b14f1679f) | [HW 8](https://gist.github.com/bedohazizsolt/2965c5863df0330c00b5d2f4444ddc91) | due date: 2022. 11. 10. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [solution](https://gist.github.com/bedohazizsolt/a0e1dc8bd5ef832b72244868e0f27b04)|
 | 09 | [code example](https://patbaa.web.elte.hu/physdm/code_examples/fully_connected.html), [dataset](https://drive.google.com/drive/folders/1R22YxiBaEjb5UvEaTmLh88NUcYlHfVRt) | [HW 9](https://gist.github.com/qbeer/1df46c5028ad976dcf497f8117046830) | due date: 2022. 11. 17. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [solution](https://gist.github.com/qbeer/049fb4cfdc2072a18f6071aa7527d61b)|
-| 10 | [Kaggle dataset](https://www.kaggle.com/masterdesky/multiband-photoz-sdss-dr16) | [HW 10](https://gist.github.com/masterdesky/bcb73bd26a578e197e1bbdb0e4a2b417) | due date: 2022. 11. 24. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [-]()|
-| 11 | []() | [HW 11](https://gist.github.com/qbeer/74d064ee596744ff4e9c9716922f471b) | due date: 2022. 12. 01. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [-]()|
+| 10 | [Kaggle dataset](https://www.kaggle.com/masterdesky/multiband-photoz-sdss-dr16) | [HW 10](https://gist.github.com/masterdesky/bcb73bd26a578e197e1bbdb0e4a2b417) | due date: 2022. 11. 24. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [solution](https://gist.github.com/masterdesky/05e19a1f45b8002fcf2592893dfbc503)|
+| 11 | - | [HW 11](https://gist.github.com/qbeer/74d064ee596744ff4e9c9716922f471b) | due date: 2022. 12. 01. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [-]()|
+| 12 | for extra points, [GloVe file](https://drive.google.com/file/d/1v2dDs3TEIoDnThqVvKnq1evRx1ODU0CP/view?usp=share_link) | [HW 12](https://gist.github.com/qbeer/e52ec7f519dfc2fa12583fa3b497769d) | due date: 2022. 12. 08. 23:59, send in email to bedohazi@student.elte.hu and ozkilim@hotmail.co.uk | [-]()|
 
 ---
 
