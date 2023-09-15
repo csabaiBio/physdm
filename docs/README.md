@@ -1,6 +1,6 @@
  - Homeworks could be completed on [Google Colab](https://colab.research.google.com/) or locally on your machine via installing [Anaconda](https://www.anaconda.com/products/individual)
- - Lecture: Wednesday (Novobátzky 8-9)
- - Lab: Wednesday (North Building 5.56 - Információtechnológiai laboratórium) 14:00-15:30 [***MANDATORY!***]
+ - Lecture: Wednesday (at lab time)
+ - Lab: Wednesday (North Building 5.56 - Információtechnológiai laboratórium) 10:00-11:45 [***MANDATORY!***]
 
 
 #### Project suggestions
