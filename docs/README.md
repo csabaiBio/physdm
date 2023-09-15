@@ -3,14 +3,12 @@
  - Lab: Wednesday (North Building 5.56 - Információtechnológiai laboratórium) 14:00-15:30 [***MANDATORY!***]
 
 
-### Points
-
-TBA
-
 #### Project suggestions
 
 Please try to select a project based on your personal interest! Each project will have 3 slots which
 will be handed out on a 'first come, first served' basis! -> email: olar.alex@ttk.elte.hu
+
+Personal project suggestions are welcome:
 
 [Project LIST](https://docs.google.com/spreadsheets/d/12AufXGvGRTkducqmR4yV7Ypk0EPUMl50hJ2iMSUGagg/edit?usp=sharing)
 
