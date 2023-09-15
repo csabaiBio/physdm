@@ -64,13 +64,17 @@ Final scores: QS-PR_1 (4) + PR_1 (21) + QS-PR_2 (4) + PR_2 (21) = 50
 
 ## Deadlines:
 
-TBD (approximately quarters and mid/end-of-semester)
+First project progress report deadline: **2023. 10. 20. 23:59** - short email describing what you have achived thus far and zipped project files (without data if large)
+First project deadline: **2023. 11. 03. 23:59** - (end of fall break)
+
+Second progress report deadline: **2023. 12. 01. 23:59** - same as previous
+Second project deadline: **2023. 12. 15. 23:59** - (end of semester)
+
+Please send everything in email to [olar.alex@ttk.elte.hu](mailto:olar.alex@ttt.elte.hu)!
 
 Projects will be provided OR custom projects that fit your interest are welcome!
 You need to analyze, come up with ideas how and what to model on the data.
 Perform meaningful supervised learning task and unsupervised exploration.
 Write ~ 5 pages PDF report (wo/ code).
-
-[Formal requirements for the assigments.](lab/assignments.md) 
 
 ---
