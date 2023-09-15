@@ -10,12 +10,15 @@ TBA
 #### Project suggestions
 
 Please try to select a project based on your personal interest! Each project will have 3 slots which
-will be handed out on a 'first come, first served' basis! -> email: bedohazi@student.elte.hu
+will be handed out on a 'first come, first served' basis! -> email: olar.alex@ttk.elte.hu
 
-[Project LIST](TBA)
+[Project LIST](https://docs.google.com/spreadsheets/d/12AufXGvGRTkducqmR4yV7Ypk0EPUMl50hJ2iMSUGagg/edit?usp=sharing)
 
 ### Lecture materials:
-- 01  [Course introduction](https://docs.google.com/presentation/d/1AeIk24TLsBeIqFZiObw_sSaFhjJ4Et3qztavSU1sbeM/edit?usp=sharing)
+- 01  [Course introduction](https://docs.google.com/presentation/d/1DP86slfNUrP4JgOh1aQSDUdtzhNTfruM/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) **UPDATED: 2023. 09. 15.**
+
+Below not updated:
+ 
 - 02 [Unsupervised & clustering](https://docs.google.com/presentation/d/1XWi5F9498P09thyq8-jm4cUG0fvzIF3XWluZmq5CtO8/edit?usp=sharing)
 - 03 [Supervised learning](https://docs.google.com/presentation/d/1k1MA6r7SvYRu6bzYfT8uXousPyJlGJfIXAtCJJOWwdo/edit?usp=sharing)
 - 04 [Linear regression](https://docs.google.com/presentation/d/1EWF2-fU4eaaAoWG7ioe2ahCTyvvBkMRHsuYcOtlvNdg/edit?usp=sharing)
