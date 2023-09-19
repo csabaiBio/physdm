@@ -34,7 +34,7 @@ Below not updated:
 
 | Number (#) | misc. | homework | info | solution |
 |:----------:|:-----:|:--------:|:----:|:--------:|
-| 01 | [data](https://gist.github.com/qbeer/4abbb6c975abeacfbbd5d7301b4e34af)  | [HW 1](https://gist.github.com/qbeer/a7b26bcbc56a63f32097e52738f57a76) | N/A | [solution](https://olaralex.web.elte.hu/physdm/01_SOLVED_EDA.html)|
+| 01 | [data](https://gist.github.com/qbeer/4abbb6c975abeacfbbd5d7301b4e34af)  | [HW 1](https://gist.github.com/qbeer/a7b26bcbc56a63f32097e52738f57a76) | UPDATED: 2023. 09. 20. | [solution](https://colab.research.google.com/drive/1Flm2qo4lqqLLS-KHGGrbm-44d_ObuqVA?usp=sharing)|
 | 02 | [dataset](https://gist.github.com/bedohazizsolt/e7d727eb290272f23e787be96a414b64)  | [HW 2](https://gist.github.com/bedohazizsolt/9f0f637dedd839e874a05750eacb518b) | N/A | [solution](https://gist.github.com/qbeer/a43b741b36091a974c45e0dc80652d90)|
 | 03 | [dataset](https://gist.github.com/bedohazizsolt/315f3758d356b91db492fa502b4ad081)  | [HW 3](https://gist.github.com/bedohazizsolt/b3ad389af64964a8f90f0611b6a5f650) | N/A | [solution](https://gist.github.com/udvzol/63f79c574a88500480846805e9681af5#file-lab03-ipynb)|
 | 04 | [dataset](https://drive.google.com/drive/folders/1KoYjstAXfVLkw6k_xsQnv_HT4rnanrC4)  | [HW 4](https://gist.github.com/bedohazizsolt/56b3a86a575f3e3227e50644ae4adfe9) | N/A | [solution](https://gist.github.com/bedohazizsolt/012243a6997ca3cf4f3768299da5f74e)|
