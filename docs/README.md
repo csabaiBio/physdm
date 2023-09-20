@@ -15,8 +15,9 @@ Personal project suggestions are welcome:
 ### Lecture materials:
 - 01  [Course introduction](https://docs.google.com/presentation/d/1DP86slfNUrP4JgOh1aQSDUdtzhNTfruM/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) **UPDATED: 2023. 09. 15.**
 - 02 [Unsupervised & clustering](https://docs.google.com/presentation/d/1fdPCJLBEL4LN5ksIBiTBIwL2152M7lG6/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) **UPDATED: 2023. 09. 20.**
-- 
+ 
 Below not updated:
+
 - 03 [Supervised learning](https://docs.google.com/presentation/d/1k1MA6r7SvYRu6bzYfT8uXousPyJlGJfIXAtCJJOWwdo/edit?usp=sharing)
 - 04 [Linear regression](https://docs.google.com/presentation/d/1EWF2-fU4eaaAoWG7ioe2ahCTyvvBkMRHsuYcOtlvNdg/edit?usp=sharing)
 - 05 [Linear methods for classification](https://docs.google.com/presentation/d/12B4O_6x_ZIbL0yQuOrdhFCgzMIUDwQxOPUnOPxmpjZ0/edit?usp=sharing)
@@ -30,7 +31,6 @@ Below not updated:
 
 
 ### Lab materials
-**There will be no lab on 16th September!**
 
 | Number (#) | misc. | homework | info | solution |
 |:----------:|:-----:|:--------:|:----:|:--------:|
