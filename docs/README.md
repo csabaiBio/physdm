@@ -2,6 +2,10 @@
  - Lecture: Wednesday (at lab time)
  - Lab: Wednesday (North Building 5.56 - Információtechnológiai laboratórium) 10:00-11:45 [***MANDATORY!***]
 
+#### Personal Q&A
+
+We are generally available in the afternoon at room 5.103, Northern Building from 13:00 - 16:00 almost every day. If you feel that you are stuck or need help with something (guidance, not pair programming) feel free to reach out to us. For additional requests email us.
+
 
 #### Project suggestions
 
