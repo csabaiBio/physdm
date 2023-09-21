@@ -60,11 +60,13 @@ Grading:
 Based on two project, due dates TBD. Mid-semester project reports, Quarter-semester progress reports.
 Final scores: QS-PR_1 (4) + PR_1 (21) + QS-PR_2 (4) + PR_2 (21) = 50
 
-5: 42-
-4: 35-42
-3: 28-35
-2: 21-28
-1:   -21
+| Mark | Interval |
+| ---- | -------  |
+| 5    | 42-      |
+| 4    |  35-42   |
+| 3    | 28-35    |
+| 2    |  21-28   |
+| 1    |   -21    |
 
 ## Deadlines:
 
