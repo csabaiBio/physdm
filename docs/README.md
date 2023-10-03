@@ -20,10 +20,10 @@ Personal project suggestions are welcome:
 - 01  [Course introduction](https://docs.google.com/presentation/d/1DP86slfNUrP4JgOh1aQSDUdtzhNTfruM/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) **UPDATED: 2023. 09. 15.**
 - 02 [Unsupervised & clustering](https://docs.google.com/presentation/d/1fdPCJLBEL4LN5ksIBiTBIwL2152M7lG6/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) **UPDATED: 2023. 09. 20.**
 - 03 [Supervised learning](https://docs.google.com/presentation/d/1OFhtZAnDHPFE5-q3DwA-MGlyVlF4kF80/edit?usp=sharing&ouid=114721520740687989351&rtpof=true&sd=true) **UPDATED: 2023. 09. 26.**
+- 04 [Linear regression](https://docs.google.com/presentation/d/1H_j8wf_UlAp6znGROrpiGDuKOHu72qJan18TPo1GAZo/edit?usp=sharing) **UPDATED: 2023. 10. 04.**
  
 Below not updated:
 
-- 04 [Linear regression](https://docs.google.com/presentation/d/1EWF2-fU4eaaAoWG7ioe2ahCTyvvBkMRHsuYcOtlvNdg/edit?usp=sharing)
 - 05 [Linear methods for classification](https://docs.google.com/presentation/d/12B4O_6x_ZIbL0yQuOrdhFCgzMIUDwQxOPUnOPxmpjZ0/edit?usp=sharing)
 - 06 [Regularization, model selection](https://docs.google.com/presentation/d/1uNQD2bRQMgbhTHH32tTJPoOHBdUMwkYC85qmm_0Gp6I/edit?usp=sharing)
 - 07 [SVM](https://docs.google.com/presentation/d/1nQqtCdJ7raUf4xZ7xHBgRz1eGpQMu6Gufwqy8GGzoKw/edit?usp=sharing)
@@ -40,7 +40,7 @@ Below not updated:
 |:----------:|:-----:|:--------:|:----:|:--------:|
 | 01 | [data](https://gist.github.com/qbeer/4abbb6c975abeacfbbd5d7301b4e34af)  | [HW 1](https://gist.github.com/qbeer/a7b26bcbc56a63f32097e52738f57a76) | UPDATED: 2023. 09. 20. | [solution](https://colab.research.google.com/drive/1Flm2qo4lqqLLS-KHGGrbm-44d_ObuqVA?usp=sharing)|
 | 02 | [dataset](https://gist.github.com/bedohazizsolt/e7d727eb290272f23e787be96a414b64)  | [HW 2](https://gist.github.com/bedohazizsolt/9f0f637dedd839e874a05750eacb518b) | UPDATED: 2023. 09. 20. | [solution](https://colab.research.google.com/gist/qbeer/9ab7d8f3c4d6af52f98421f55d282238/lab02.ipynb) |
-| 03 | [dataset](https://gist.github.com/bedohazizsolt/315f3758d356b91db492fa502b4ad081)  | [HW 3](https://gist.github.com/bedohazizsolt/b3ad389af64964a8f90f0611b6a5f650) | N/A | [solution](https://gist.github.com/udvzol/63f79c574a88500480846805e9681af5#file-lab03-ipynb)|
+| 03 | [dataset](https://gist.github.com/bedohazizsolt/315f3758d356b91db492fa502b4ad081)  | [HW 3](https://gist.github.com/bedohazizsolt/b3ad389af64964a8f90f0611b6a5f650) | UPDATED: 2023. 10. 04. | [solution](https://colab.research.google.com/drive/1R20-fD5x22CAOF7iZeG3RpVD5jD3B-wG?usp=sharing)|
 | 04 | [dataset](https://drive.google.com/drive/folders/1KoYjstAXfVLkw6k_xsQnv_HT4rnanrC4)  | [HW 4](https://gist.github.com/bedohazizsolt/56b3a86a575f3e3227e50644ae4adfe9) | N/A | [solution](https://gist.github.com/bedohazizsolt/012243a6997ca3cf4f3768299da5f74e)|
 | 05 | [dataset](https://docs.google.com/spreadsheets/d/19cF1ghpHBN87XHSh1VkHGO29xG6qULfP/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)  | [HW 5](https://gist.github.com/qbeer/c7630c11339b659843e32e39eb732e42) | N/A | [solution](https://gist.github.com/qbeer/9a831895cf4c81683eafebc398592731)|
 | 06 | [code example](https://olaralex.web.elte.hu/physdm/model_regularization_II.html)  | [HW 6](https://gist.github.com/qbeer/07eb98879a555a676b6da86ea8cd7f9e) | N/A | [solution](https://qbeer.github.io/assets/static/regression)|
