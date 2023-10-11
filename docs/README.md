@@ -21,10 +21,10 @@ Personal project suggestions are welcome:
 - 02 [Unsupervised & clustering](https://docs.google.com/presentation/d/1fdPCJLBEL4LN5ksIBiTBIwL2152M7lG6/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) **UPDATED: 2023. 09. 20.**
 - 03 [Supervised learning](https://docs.google.com/presentation/d/1OFhtZAnDHPFE5-q3DwA-MGlyVlF4kF80/edit?usp=sharing&ouid=114721520740687989351&rtpof=true&sd=true) **UPDATED: 2023. 09. 26.**
 - 04 [Linear regression](https://docs.google.com/presentation/d/1H_j8wf_UlAp6znGROrpiGDuKOHu72qJan18TPo1GAZo/edit?usp=sharing) **UPDATED: 2023. 10. 04.**
+- 05 [Linear methods for classification, model validation](https://docs.google.com/presentation/d/1SWKjur-qsKv2V_eXKc4RryJmaSaMaL43PMzK6_TijRE/edit?usp=sharing) **UPDATED: 2023. 10. 11.**
  
 Below not updated:
 
-- 05 [Linear methods for classification](https://docs.google.com/presentation/d/12B4O_6x_ZIbL0yQuOrdhFCgzMIUDwQxOPUnOPxmpjZ0/edit?usp=sharing)
 - 06 [Regularization, model selection](https://docs.google.com/presentation/d/1uNQD2bRQMgbhTHH32tTJPoOHBdUMwkYC85qmm_0Gp6I/edit?usp=sharing)
 - 07 [SVM](https://docs.google.com/presentation/d/1nQqtCdJ7raUf4xZ7xHBgRz1eGpQMu6Gufwqy8GGzoKw/edit?usp=sharing)
 - 08 [Tree models](https://docs.google.com/presentation/d/1kkOTDcFQXKOC3CUyNZdtKfwmizMa6KI_KuWULRG1iSU/edit?usp=sharing)
