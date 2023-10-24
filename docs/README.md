@@ -23,11 +23,11 @@ Personal project suggestions are welcome:
 - 04 [Linear regression](https://docs.google.com/presentation/d/1H_j8wf_UlAp6znGROrpiGDuKOHu72qJan18TPo1GAZo/edit?usp=sharing) **UPDATED: 2023. 10. 04.**
 - 05 [Linear methods for classification, model validation](https://docs.google.com/presentation/d/1SWKjur-qsKv2V_eXKc4RryJmaSaMaL43PMzK6_TijRE/edit?usp=sharing) **UPDATED: 2023. 10. 11.**
 - 06 [Regularization, model selection](https://docs.google.com/presentation/d/10mD1qAkoHCkCwdtQ5IskrFxCfeUDipoZpkQAH6xAjk0/edit?usp=sharing) **UPDATED: 2023. 10. 11.**
- 
+- 07 [SVM](https://docs.google.com/presentation/d/1W7oHK418W3WF8p3RCgyaQdw59YSHLDZb/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) **UPDATED: 2023. 10. 25.**
+- 08 [Tree models](https://docs.google.com/presentation/d/1rBT5MLTraEZeo8fnQJAGWH0LZXakGyUXZmkQUVM8DKc/edit?usp=sharing) **UPDATED: 2023. 10. 25.**
+  
 Below not updated:
 
-- 07 [SVM](https://docs.google.com/presentation/d/1nQqtCdJ7raUf4xZ7xHBgRz1eGpQMu6Gufwqy8GGzoKw/edit?usp=sharing)
-- 08 [Tree models](https://docs.google.com/presentation/d/1kkOTDcFQXKOC3CUyNZdtKfwmizMa6KI_KuWULRG1iSU/edit?usp=sharing)
 - 09 [Fully connected neural networks](https://docs.google.com/presentation/d/11kwtZrHDGfX0kmHNQHyQsHhU5xgqWplGIaQdhNSHR4k/edit?usp=sharing)
 - 10 [Convolutional neural networks](https://docs.google.com/presentation/d/1X70iVry2ZruFZPobMLSJXstw8d3bj-Vl7UC9dQ5SSec/edit?usp=sharing)
 - 11 [More neural networks](https://docs.google.com/presentation/d/1OHmokXwjopyW3DDUI24o7mpBeRXfZDP1JC3yQeIYU8M/edit?usp=sharing)
@@ -44,7 +44,7 @@ Below not updated:
 | 04 | [dataset](https://drive.google.com/drive/folders/1KoYjstAXfVLkw6k_xsQnv_HT4rnanrC4)  | [HW 4](https://gist.github.com/bedohazizsolt/56b3a86a575f3e3227e50644ae4adfe9) | UPDATED: 2023. 10. 11. | [solution](https://colab.research.google.com/drive/1RW5KHvQZMDfSSDJaF4W0_jL0_wuRT3lH?usp=sharing)|
 | 05 | [dataset](https://docs.google.com/spreadsheets/d/19cF1ghpHBN87XHSh1VkHGO29xG6qULfP/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true)  | [HW 5](https://gist.github.com/qbeer/c7630c11339b659843e32e39eb732e42) | UPDATED: 2023. 10. 11. | [solution](https://colab.research.google.com/gist/qbeer/9a831895cf4c81683eafebc398592731/hw5.ipynb) |
 | 06 | [code example](https://olaralex.web.elte.hu/physdm/model_regularization_II.html)  | [HW 6](https://gist.github.com/qbeer/07eb98879a555a676b6da86ea8cd7f9e) | UPDATED: 2023. 10. 11. | [solution](https://colab.research.google.com/drive/1OotF2LpCauhz0A_K22QuCZJ4QmGXYAlV?usp=sharing)|
-| 07 | [dataset](https://gist.github.com/bedohazizsolt/8182e3517595bb093e95703a453e3d60), [code example](https://olaralex.web.elte.hu/physdm/svm_examples.html)  | [HW 7](https://gist.github.com/bedohazizsolt/26112dcd81da6fd20c23d4eb75185099) | N/A | [solution](https://gist.github.com/bedohazizsolt/240687c160b55d5441c9029001d71689)|
+| 07 | [dataset](https://gist.github.com/bedohazizsolt/8182e3517595bb093e95703a453e3d60), [code example](https://olaralex.web.elte.hu/physdm/svm_examples.html)  | [HW 7](https://gist.github.com/bedohazizsolt/26112dcd81da6fd20c23d4eb75185099) | UPDATED: 2023. 10. 25. | [solution](https://colab.research.google.com/drive/1sB0ugAv-Ucnr6PJELpnE9eXGvtt5_3M9?usp=sharing)|
 | 08 | [dataset](https://gist.github.com/bedohazizsolt/6391b83460486072dbfc320b14f1679f) | [HW 8](https://gist.github.com/bedohazizsolt/2965c5863df0330c00b5d2f4444ddc91) | N/A | [solution](https://gist.github.com/bedohazizsolt/a0e1dc8bd5ef832b72244868e0f27b04)|
 | 09 | [code example](https://olaralex.web.elte.hu/physdm/fully_connected.html), [dataset](https://drive.google.com/drive/folders/1R22YxiBaEjb5UvEaTmLh88NUcYlHfVRt) | [HW 9](https://gist.github.com/qbeer/1df46c5028ad976dcf497f8117046830) | N/A | [solution](https://gist.github.com/qbeer/049fb4cfdc2072a18f6071aa7527d61b)|
 | 10 | [Kaggle dataset](https://www.kaggle.com/masterdesky/multiband-photoz-sdss-dr16) | [HW 10](https://gist.github.com/masterdesky/bcb73bd26a578e197e1bbdb0e4a2b417) | N/A | [solution](https://gist.github.com/masterdesky/05e19a1f45b8002fcf2592893dfbc503)|
