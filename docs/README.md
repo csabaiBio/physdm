@@ -73,6 +73,13 @@ Final scores: QS-PR_1 (4) + PR_1 (21) + QS-PR_2 (4) + PR_2 (21) = 50
 First project progress report deadline: **2023. 10. 20. 23:59** - short email describing what you have achived thus far and zipped project files (without data if large)
 First project deadline: **2023. 11. 05. 23:59** - (end of fall break)
 
+Examplary reports of the first projects, these are some to strive for:
+
+* [SDSS](./lab/examplary_full_report_SDSS.pdf) **best overall**
+* [POLLUTION](./lab/examplery_eda_POLLUTION.pdf) very good and informative EDA
+* [POLLUTION](./lab/exemplary_full_report_POLLUTION2.pdf) very good overall work
+* [SPOTIFY](./lab/exemplary_full_report_SPOTIFY.pdf) very good overall work
+
 Second progress report deadline: **2023. 12. 01. 23:59** - same as previous
 Second project deadline: **2023. 12. 15. 23:59** - (end of semester)
 
@@ -81,6 +88,6 @@ Please send everything in email to [olar.alex@ttk.elte.hu](mailto:olar.alex@ttt.
 Projects will be provided OR custom projects that fit your interest are welcome!
 You need to analyze, come up with ideas how and what to model on the data.
 Perform meaningful supervised learning task and unsupervised exploration.
-Write ~ 5 pages PDF report (wo/ code).
+Write an informative PDF report!
 
 ---
