@@ -26,10 +26,10 @@ Personal project suggestions are welcome:
 - 07 [SVM](https://docs.google.com/presentation/d/1W7oHK418W3WF8p3RCgyaQdw59YSHLDZb/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) **UPDATED: 2023. 10. 25.**
 - 08 [Tree models](https://docs.google.com/presentation/d/1rBT5MLTraEZeo8fnQJAGWH0LZXakGyUXZmkQUVM8DKc/edit?usp=sharing) **UPDATED: 2023. 10. 25.**
 - 09 [Fully connected neural networks](https://docs.google.com/presentation/d/11kwtZrHDGfX0kmHNQHyQsHhU5xgqWplGIaQdhNSHR4k/edit?usp=sharing)
+- 10 [Convolutional neural networks](https://docs.google.com/presentation/d/1X70iVry2ZruFZPobMLSJXstw8d3bj-Vl7UC9dQ5SSec/edit?usp=sharing)
   
 Below not updated:
 
-- 10 [Convolutional neural networks](https://docs.google.com/presentation/d/1X70iVry2ZruFZPobMLSJXstw8d3bj-Vl7UC9dQ5SSec/edit?usp=sharing)
 - 11 [More neural networks](https://docs.google.com/presentation/d/1OHmokXwjopyW3DDUI24o7mpBeRXfZDP1JC3yQeIYU8M/edit?usp=sharing)
 - 12 [Word embedding, RNNs](https://docs.google.com/presentation/d/1x6cF4ItJWcUDs3M1nTdCG4GU_d5nUUOkT-GhU5x8vnI/edit?usp=sharing) - [example1](https://github.com/patbaa/demo_notebooks/blob/master/train_word2vec.ipynb), [example2](https://github.com/patbaa/demo_notebooks/blob/master/play_word2vec.ipynb)
 
@@ -47,7 +47,7 @@ Below not updated:
 | 07 | [dataset](https://gist.github.com/bedohazizsolt/8182e3517595bb093e95703a453e3d60), [code example](https://olaralex.web.elte.hu/physdm/svm_examples.html)  | [HW 7](https://gist.github.com/bedohazizsolt/26112dcd81da6fd20c23d4eb75185099) | UPDATED: 2023. 10. 25. | [solution](https://colab.research.google.com/drive/1sB0ugAv-Ucnr6PJELpnE9eXGvtt5_3M9?usp=sharing)|
 | 08 | [dataset](https://gist.github.com/bedohazizsolt/6391b83460486072dbfc320b14f1679f) | [HW 8](https://gist.github.com/bedohazizsolt/2965c5863df0330c00b5d2f4444ddc91) | N/A | [solution](https://gist.github.com/bedohazizsolt/a0e1dc8bd5ef832b72244868e0f27b04)|
 | 09 | [code example](https://olaralex.web.elte.hu/physdm/fully_connected.html), [dataset](https://drive.google.com/drive/folders/1R22YxiBaEjb5UvEaTmLh88NUcYlHfVRt) | HW 9 | UPDATED: 2023. 11. 06. | [solution](https://colab.research.google.com/drive/1bTF1AasbwXLUFdAbNmdiGudGybHtWJRg?usp=sharing)|
-| 10 | [Kaggle dataset](https://www.kaggle.com/masterdesky/multiband-photoz-sdss-dr16) | [HW 10](https://gist.github.com/masterdesky/bcb73bd26a578e197e1bbdb0e4a2b417) | N/A | [solution](https://gist.github.com/masterdesky/05e19a1f45b8002fcf2592893dfbc503)|
+| 10 | [Kaggle dataset](https://www.kaggle.com/masterdesky/multiband-photoz-sdss-dr16) | [HW 10](https://gist.github.com/masterdesky/bcb73bd26a578e197e1bbdb0e4a2b417) | UPDATED: 2023. 11. 15. | [solution](https://colab.research.google.com/drive/1CHPMsad-SFe0RYXMNupA6nQp4GQxcDhq?usp=sharing)|
 | 11 | - | [HW 11](https://gist.github.com/qbeer/74d064ee596744ff4e9c9716922f471b) | N/A | [-]()|
 | 12 | for extra points, [GloVe file](https://drive.google.com/file/d/1v2dDs3TEIoDnThqVvKnq1evRx1ODU0CP/view?usp=share_link) | [HW 12](https://gist.github.com/qbeer/e52ec7f519dfc2fa12583fa3b497769d) | N/A | [-]()|
 
