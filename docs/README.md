@@ -49,7 +49,7 @@ Below not updated:
 | 08 | [dataset](https://gist.github.com/bedohazizsolt/6391b83460486072dbfc320b14f1679f) | [HW 8](https://gist.github.com/bedohazizsolt/2965c5863df0330c00b5d2f4444ddc91) | N/A | [solution](https://gist.github.com/bedohazizsolt/a0e1dc8bd5ef832b72244868e0f27b04)|
 | 09 | [code example](https://olaralex.web.elte.hu/physdm/fully_connected.html), [dataset](https://drive.google.com/drive/folders/1R22YxiBaEjb5UvEaTmLh88NUcYlHfVRt) | HW 9 | UPDATED: 2023. 11. 06. | [solution](https://colab.research.google.com/drive/1bTF1AasbwXLUFdAbNmdiGudGybHtWJRg?usp=sharing)|
 | 10 | [Kaggle dataset](https://www.kaggle.com/masterdesky/multiband-photoz-sdss-dr16) | [HW 10](https://gist.github.com/masterdesky/bcb73bd26a578e197e1bbdb0e4a2b417) | UPDATED: 2023. 11. 15. | [solution](https://colab.research.google.com/drive/1CHPMsad-SFe0RYXMNupA6nQp4GQxcDhq?usp=sharing)|
-| 11 | - | [HW 11](https://gist.github.com/qbeer/74d064ee596744ff4e9c9716922f471b) | UPDATED: 2023. 11. 21. | [Fine tuning](https://colab.research.google.com/gist/qbeer/74d064ee596744ff4e9c9716922f471b/hw11_no_code.ipynb)|
+| 11 | - | [HW 11](https://gist.github.com/qbeer/74d064ee596744ff4e9c9716922f471b) | UPDATED: 2023. 11. 21. | [Fine tuning](https://colab.research.google.com/drive/1HvJC5DYggrGDQWwCKKpAfu47KAWwPsBL?usp=sharing)|
 | 12 | for extra points, [GloVe file](https://drive.google.com/file/d/1v2dDs3TEIoDnThqVvKnq1evRx1ODU0CP/view?usp=share_link) | [HW 12](https://gist.github.com/qbeer/e52ec7f519dfc2fa12583fa3b497769d) | N/A | [-]()|
 
 ---
