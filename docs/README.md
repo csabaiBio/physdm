@@ -28,10 +28,11 @@ Personal project suggestions are welcome:
 - 09 [Fully connected neural networks](https://docs.google.com/presentation/d/11kwtZrHDGfX0kmHNQHyQsHhU5xgqWplGIaQdhNSHR4k/edit?usp=sharing)
 - 10 [Convolutional neural networks](https://docs.google.com/presentation/d/1X70iVry2ZruFZPobMLSJXstw8d3bj-Vl7UC9dQ5SSec/edit?usp=sharing)
 - 11 [More neural networks](https://docs.google.com/presentation/d/1OHmokXwjopyW3DDUI24o7mpBeRXfZDP1JC3yQeIYU8M/edit?usp=sharing)
+- 12 [Simple OCR end-to-end example](https://github.com/qbeer/simple-ocr) **UPDATED: 2023. 11. 29.** -> the whole github repository \w everything attached
   
 Below not updated:
 
-- 12 [Word embedding, RNNs](https://docs.google.com/presentation/d/1x6cF4ItJWcUDs3M1nTdCG4GU_d5nUUOkT-GhU5x8vnI/edit?usp=sharing) - [example1](https://github.com/patbaa/demo_notebooks/blob/master/train_word2vec.ipynb), [example2](https://github.com/patbaa/demo_notebooks/blob/master/play_word2vec.ipynb)
+- 13 [Word embedding, RNNs](https://docs.google.com/presentation/d/1x6cF4ItJWcUDs3M1nTdCG4GU_d5nUUOkT-GhU5x8vnI/edit?usp=sharing) - [example1](https://github.com/patbaa/demo_notebooks/blob/master/train_word2vec.ipynb), [example2](https://github.com/patbaa/demo_notebooks/blob/master/play_word2vec.ipynb)
 
 
 ### Lab materials
