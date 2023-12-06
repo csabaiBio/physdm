@@ -29,10 +29,7 @@ Personal project suggestions are welcome:
 - 10 [Convolutional neural networks](https://docs.google.com/presentation/d/1X70iVry2ZruFZPobMLSJXstw8d3bj-Vl7UC9dQ5SSec/edit?usp=sharing)
 - 11 [More neural networks](https://docs.google.com/presentation/d/1OHmokXwjopyW3DDUI24o7mpBeRXfZDP1JC3yQeIYU8M/edit?usp=sharing)
 - 12 [Simple OCR end-to-end example](https://github.com/qbeer/simple-ocr) **UPDATED: 2023. 11. 29.** -> the whole github repository \w everything attached
-  
-Below not updated:
-
-- 13 [Word embedding, RNNs](https://docs.google.com/presentation/d/1x6cF4ItJWcUDs3M1nTdCG4GU_d5nUUOkT-GhU5x8vnI/edit?usp=sharing) - [example1](https://github.com/patbaa/demo_notebooks/blob/master/train_word2vec.ipynb), [example2](https://github.com/patbaa/demo_notebooks/blob/master/play_word2vec.ipynb)
+- 13 [Word embedding, RNNs](https://docs.google.com/presentation/d/18ZgQgxiT0x3AtuFBiS6RMQ0QSxFhscEq5itDH-5iNEQ/edit?usp=sharing) - [example1](https://github.com/patbaa/demo_notebooks/blob/master/train_word2vec.ipynb), [example2](https://github.com/patbaa/demo_notebooks/blob/master/play_word2vec.ipynb)
 
 
 ### Lab materials
@@ -50,7 +47,7 @@ Below not updated:
 | 09 | [code example](https://olaralex.web.elte.hu/physdm/fully_connected.html), [dataset](https://drive.google.com/drive/folders/1R22YxiBaEjb5UvEaTmLh88NUcYlHfVRt) | HW 9 | UPDATED: 2023. 11. 06. | [solution](https://colab.research.google.com/drive/1bTF1AasbwXLUFdAbNmdiGudGybHtWJRg?usp=sharing)|
 | 10 | [Kaggle dataset](https://www.kaggle.com/masterdesky/multiband-photoz-sdss-dr16) | [HW 10](https://gist.github.com/masterdesky/bcb73bd26a578e197e1bbdb0e4a2b417) | UPDATED: 2023. 11. 15. | [solution](https://colab.research.google.com/drive/1CHPMsad-SFe0RYXMNupA6nQp4GQxcDhq?usp=sharing)|
 | 11 | - | [HW 11](https://gist.github.com/qbeer/74d064ee596744ff4e9c9716922f471b) | UPDATED: 2023. 11. 21. | [Fine tuning](https://colab.research.google.com/drive/1HvJC5DYggrGDQWwCKKpAfu47KAWwPsBL?usp=sharing)|
-| 12 | for extra points, [GloVe file](https://drive.google.com/file/d/1v2dDs3TEIoDnThqVvKnq1evRx1ODU0CP/view?usp=share_link) | [HW 12](https://gist.github.com/qbeer/e52ec7f519dfc2fa12583fa3b497769d) | N/A | [-]()|
+| 12 | for extra points, [GloVe file](https://drive.google.com/file/d/1v2dDs3TEIoDnThqVvKnq1evRx1ODU0CP/view?usp=share_link) | [HW 12](https://gist.github.com/qbeer/e52ec7f519dfc2fa12583fa3b497769d) | N/A | [HW12](https://colab.research.google.com/gist/qbeer/bd9f32eb9f4d29805b8a740f801c215d/hw12.ipynb)|
 
 ---
 
