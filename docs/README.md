@@ -79,7 +79,7 @@ Examplary reports of the first projects, these are some to strive for:
 * [SPOTIFY](./lab/exemplary_full_report_SPOTIFY.pdf) very good overall work
 
 Second progress report deadline: **2023. 12. 03. 23:59** - same as previous
-Second project deadline: **2023. 12. 15. 23:59** - (end of semester)
+Second project deadline: **2023. 12. 17. 23:59** - (end of semester)
 
 Please send everything in email to [olar.alex@ttk.elte.hu](mailto:olar.alex@ttt.elte.hu)! ***Please make the title of your mail your Neptun-code.***
 
