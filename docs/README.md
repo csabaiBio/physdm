@@ -10,7 +10,7 @@ We are generally available in the afternoon at room 5.103, Northern Building fro
 #### Project suggestions
 
 Please try to select a project based on your personal interest! Each project will have 3 slots which
-will be handed out on a 'first come, first served' basis! -> email: olar.alex@ttk.elte.hu
+will be handed out on a 'first come, first served' basis! -> email: ffbence@student.elte.hu
 
 Personal project suggestions are welcome:
 
