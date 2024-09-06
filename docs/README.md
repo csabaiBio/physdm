@@ -79,7 +79,7 @@ Examplary reports of the first projects, these are some to strive for:
 Second progress report deadline: **2023. 11. 15. 23:59** - same as previous
 Second project deadline: **2023. 12. 14. 23:59** - (end of semester)
 
-Send your homework to teacher who is responsible for your project! ***Please make the title of your mail your Neptun-code.***
+Send your homework to the teacher who is responsible for your project! ***Please make the title of your mail your Neptun-code.***
 
 Projects will be provided OR custom projects that fit your interest are welcome!
 You need to analyze, come up with ideas how and what to model on the data.
