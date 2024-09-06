@@ -12,7 +12,7 @@ will be handed out on a 'first come, first served' basis! -> email: ffbence@stud
 
 Personal project suggestions are welcome:
 
-[Project LIST]([https://docs.google.com/spreadsheets/d/12AufXGvGRTkducqmR4yV7Ypk0EPUMl50hJ2iMSUGagg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1-Ym1Fh9NAyFgYSY1oWNvCC2elpByLWWY/edit?usp=sharing&ouid=111142159706839914903&rtpof=true&sd=true))
+[Project LIST](https://docs.google.com/spreadsheets/d/12AufXGvGRTkducqmR4yV7Ypk0EPUMl50hJ2iMSUGagg/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1-Ym1Fh9NAyFgYSY1oWNvCC2elpByLWWY/edit?usp=sharing&ouid=111142159706839914903&rtpof=true&sd=true))
 
 ### Lecture materials:
 - 01  [Course introduction](https://docs.google.com/presentation/d/1DP86slfNUrP4JgOh1aQSDUdtzhNTfruM/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) **UPDATED: 2023. 09. 15.**
