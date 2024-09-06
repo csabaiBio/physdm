@@ -1,10 +1,8 @@
  - Homeworks could be completed on [Google Colab](https://colab.research.google.com/) or locally on your machine via installing [Anaconda](https://www.anaconda.com/products/individual)
- - Lecture: Wednesday (at lab time)
- - Lab: Wednesday (North Building 5.56 - Információtechnológiai laboratórium) 10:00-11:45 [***MANDATORY!***]
-
+ - Lecture: Thursday (13h-15-h)
+ - Location: 
 #### Personal Q&A
-
-We are generally available in the afternoon at room 5.103, Northern Building from 13:00 - 16:00 almost every day. If you feel that you are stuck or need help with something (guidance, not pair programming) feel free to reach out to us. For additional requests email us.
+My room is in 6.101A you can come to me with questions if needed. If you feel that you are stuck or need help with something (guidance, not pair programming) feel free to reach out to us. For additional requests email us.
 
 
 #### Project suggestions
@@ -68,8 +66,8 @@ Final scores: QS-PR_1 (4) + PR_1 (21) + QS-PR_2 (4) + PR_2 (21) = 50
 
 ## Deadlines:
 
-First project progress report deadline: **2023. 10. 20. 23:59** - short email describing what you have achived thus far and zipped project files (without data if large)
-First project deadline: **2023. 11. 05. 23:59** - (end of fall break)
+First project progress report deadline: **2023. 10. 4. 23:59** - short email describing what you have achived thus far and zipped project files (without data if large)
+First project deadline: **2024. 10. 25. 23:59** - (end of fall break)
 
 Examplary reports of the first projects, these are some to strive for:
 
@@ -78,10 +76,10 @@ Examplary reports of the first projects, these are some to strive for:
 * [POLLUTION](./lab/exemplary_full_report_POLLUTION2.pdf) very good overall work
 * [SPOTIFY](./lab/exemplary_full_report_SPOTIFY.pdf) very good overall work
 
-Second progress report deadline: **2023. 12. 03. 23:59** - same as previous
-Second project deadline: **2023. 12. 17. 23:59** - (end of semester)
+Second progress report deadline: **2023. 11. 15. 23:59** - same as previous
+Second project deadline: **2023. 12. 14. 23:59** - (end of semester)
 
-Please send everything in email to [olar.alex@ttk.elte.hu](mailto:olar.alex@ttt.elte.hu)! ***Please make the title of your mail your Neptun-code.***
+Send your homework to teacher who is responsible for your project! ***Please make the title of your mail your Neptun-code.***
 
 Projects will be provided OR custom projects that fit your interest are welcome!
 You need to analyze, come up with ideas how and what to model on the data.
