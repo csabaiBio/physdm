@@ -72,7 +72,7 @@ Final scores: QS-PR_1 (4) + PR_1 (21) + QS-PR_2 (4) + PR_2 (21) = 50
 
 ## Deadlines:
 
-First project progress report deadline: **2023. 10. 4. 23:59** - short email describing what you have achived thus far and zipped project files (without data if large)
+First project progress report deadline: **2024. 10. 4. 23:59** - short email describing what you have achived thus far and zipped project files (without data if large)
 First project deadline: **2024. 10. 25. 23:59** - (end of fall break)
 
 Examplary reports of the first projects, these are some to strive for:
@@ -82,8 +82,8 @@ Examplary reports of the first projects, these are some to strive for:
 * [POLLUTION](./lab/exemplary_full_report_POLLUTION2.pdf) very good overall work
 * [SPOTIFY](./lab/exemplary_full_report_SPOTIFY.pdf) very good overall work
 
-Second progress report deadline: **2023. 11. 15. 23:59** - same as previous
-Second project deadline: **2023. 12. 14. 23:59** - (end of semester)
+Second progress report deadline: **2024. 11. 15. 23:59** - same as previous
+Second project deadline: **2024. 12. 14. 23:59** - (end of semester)
 
 Send your homework to the teacher who is responsible for your project! ***Please make the title of your mail your Neptun-code.***
 
