@@ -9,7 +9,13 @@ My room is in 6.101A you can come to me with questions if needed. If you feel th
 
 Please try to select a project based on your personal interest! Each project will have 3 slots which
 will be handed out on a 'first come, first served' basis! -> email: ffbence@student.elte.hu
-
+#### Contacts
+Ágnes Becsei: agnes.becsei@ttk.elte.hu  
+Ágoston Hunya: hunyaagoston@student.elte.hu  
+Balázs Pál: masterdesky@gmail.com  
+Dániel Pozsár: danielpozsar@student.elte.hu  
+Norbert Deutsch: norbert.deutsch@ttk.elte.hu   
+Zoltán Kovács: k.ztoli17@gmail.com  
 Personal project suggestions are welcome:
 
 [Project LIST](https://docs.google.com/spreadsheets/d/1-Ym1Fh9NAyFgYSY1oWNvCC2elpByLWWY/edit?usp=sharing&ouid=111142159706839914903&rtpof=true&sd=true)
