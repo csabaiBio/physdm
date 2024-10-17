@@ -73,7 +73,7 @@ Final scores: QS-PR_1 (4) + PR_1 (21) + QS-PR_2 (4) + PR_2 (21) = 50
 ## Deadlines:
 
 First project progress report deadline: **2024. 10. 4. 23:59** - short email describing what you have achived thus far and zipped project files (without data if large)
-First project deadline: **2024. 10. 25. 23:59** - (end of fall break)
+First project deadline: **2024. 11. 02. 23:59** - (end of fall break)
 
 Examplary reports of the first projects, these are some to strive for:
 
