@@ -2,7 +2,7 @@
  - Lecture: Thursday (13h-15h)
  - Location: 5.56
 #### Personal Q&A
-My room is in 6.101A you can come to me with questions if needed. If you feel that you are stuck or need help with something (guidance, not pair programming) feel free to reach out to us. For additional requests email us.
+My room is in 6.102 you can come to me with questions if needed. If you feel that you are stuck or need help with something (guidance, not pair programming) feel free to reach out to us. For additional requests email us.
 
 
 #### Project suggestions
