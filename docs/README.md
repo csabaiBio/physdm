@@ -8,14 +8,14 @@ My room is in 6.102 you can come to me with questions if needed. If you feel tha
 #### Project suggestions
 
 Please try to select a project based on your personal interest! Each project will have 3 slots which
-will be handed out on a 'first come, first served' basis! -> email: ffbence@student.elte.hu
+will be handed out on a 'first come, first served' basis! -> email: dudas.bence@ttk.elte.hu
 #### Contacts
-Balázs Pál: masterdesky@gmail.com  | Task 1,2  
-Ágnes Becsei: agnes.becsei@ttk.elte.hu | Task 3  
-Norbert Deutsch: norbert.deutsch@ttk.elte.hu | Task 4,5   
-Ágoston Hunya: hunyaagoston@student.elte.hu  | Task 6  
-Dániel Pozsár: danielpozsar@student.elte.hu | Task 7,8   
-Zoltán Kovács: k.ztoli17@gmail.com  | Task 9, 10  
+Balázs Pál: masterdesky@gmail.com    
+Ágnes Becsei: agnes.becsei@ttk.elte.hu  
+Norbert Deutsch: norbert.deutsch@ttk.elte.hu    
+Ágoston Hunya: hunyaagoston@student.elte.hu   
+Dániel Pozsár: danielpozsar@student.elte.hu   
+Zoltán Kovács: k.ztoli17@gmail.com  
 
 This is an updated list for the second project.  
 Personal project suggestions are welcome:
@@ -23,22 +23,11 @@ Personal project suggestions are welcome:
 [Project LIST](https://docs.google.com/spreadsheets/d/1-Ym1Fh9NAyFgYSY1oWNvCC2elpByLWWY/edit?usp=sharing&ouid=111142159706839914903&rtpof=true&sd=true)
 
 ### Lecture materials:
-- 01  [Course introduction](https://docs.google.com/presentation/d/1DP86slfNUrP4JgOh1aQSDUdtzhNTfruM/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) **UPDATED: 2023. 09. 15.**
-- 02 [Unsupervised & clustering](https://docs.google.com/presentation/d/1fdPCJLBEL4LN5ksIBiTBIwL2152M7lG6/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) **UPDATED: 2023. 09. 20.**
-- 03 [Supervised learning](https://docs.google.com/presentation/d/1OFhtZAnDHPFE5-q3DwA-MGlyVlF4kF80/edit?usp=sharing&ouid=114721520740687989351&rtpof=true&sd=true) **UPDATED: 2023. 09. 26.**
-- 04 [Linear regression](https://docs.google.com/presentation/d/1H_j8wf_UlAp6znGROrpiGDuKOHu72qJan18TPo1GAZo/edit?usp=sharing) **UPDATED: 2023. 10. 04.**
-- 05 [Linear methods for classification, model validation](https://docs.google.com/presentation/d/1SWKjur-qsKv2V_eXKc4RryJmaSaMaL43PMzK6_TijRE/edit?usp=sharing) **UPDATED: 2023. 10. 11.**
-- 06 [Regularization, model selection](https://docs.google.com/presentation/d/10mD1qAkoHCkCwdtQ5IskrFxCfeUDipoZpkQAH6xAjk0/edit?usp=sharing) **UPDATED: 2023. 10. 11.**
-- 07 [SVM](https://docs.google.com/presentation/d/1W7oHK418W3WF8p3RCgyaQdw59YSHLDZb/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) **UPDATED: 2023. 10. 25.**
-- 08 [Tree models](https://docs.google.com/presentation/d/1rBT5MLTraEZeo8fnQJAGWH0LZXakGyUXZmkQUVM8DKc/edit?usp=sharing) **UPDATED: 2023. 10. 25.**
-- 09 [Fully connected neural networks](https://docs.google.com/presentation/d/11kwtZrHDGfX0kmHNQHyQsHhU5xgqWplGIaQdhNSHR4k/edit?usp=sharing)
-- 10 [Convolutional neural networks](https://docs.google.com/presentation/d/1X70iVry2ZruFZPobMLSJXstw8d3bj-Vl7UC9dQ5SSec/edit?usp=sharing)
-- 11 [More neural networks](https://docs.google.com/presentation/d/1OHmokXwjopyW3DDUI24o7mpBeRXfZDP1JC3yQeIYU8M/edit?usp=sharing)
-- 12 [Simple OCR end-to-end example](https://github.com/qbeer/simple-ocr) **UPDATED: 2023. 11. 29.** -> the whole github repository \w everything attached also for lecture 13!
-- 13 [Word embedding, RNNs](https://docs.google.com/presentation/d/18ZgQgxiT0x3AtuFBiS6RMQ0QSxFhscEq5itDH-5iNEQ/edit?usp=sharing) - [example1](https://github.com/patbaa/demo_notebooks/blob/master/train_word2vec.ipynb), [example2](https://github.com/patbaa/demo_notebooks/blob/master/play_word2vec.ipynb)
+Will be updated during semester.
 
 
 ### Lab materials
+The home works from previous year. Due to the change of the structure of this lecture these are materials for you to practice.
 
 | Number (#) | misc. | homework | info | solution |
 |:----------:|:-----:|:--------:|:----:|:--------:|
@@ -72,10 +61,11 @@ Final scores: QS-PR_1 (4) + PR_1 (21) + QS-PR_2 (4) + PR_2 (21) = 50
 | 2    |  21-28   |
 | 1    |   -21    |
 
-## Deadlines:
+Students also have to defend their coursework in an oral defense, in which we want to make sure you understand your submitied project.
 
-First project progress report deadline: **2024. 10. 4. 23:59** - short email describing what you have achived thus far and zipped project files (without data if large)
-First project deadline: **2024. 11. 02. 23:59** - (end of fall break)
+## Deadlines:
+First project progress report deadline: **2025. 10. 4. 23:59 (estimated)** - short email describing what you have achived thus far and zipped project files (without data if large)
+First project deadline: **2025. 11. 02. 23:59 (estimated)** - (end of fall break)
 
 Examplary reports of the first projects, these are some to strive for:
 
@@ -84,8 +74,8 @@ Examplary reports of the first projects, these are some to strive for:
 * [POLLUTION](./lab/exemplary_full_report_POLLUTION2.pdf) very good overall work
 * [SPOTIFY](./lab/exemplary_full_report_SPOTIFY.pdf) very good overall work
 
-Second progress report deadline: **2024. 11. 15. 23:59** - same as previous
-Second project deadline: **2024. 12. 14. 23:59** - (end of semester)
+Second progress report deadline: **2025. 11. 15. 23:59 (estimated)** - same as previous
+Second project deadline: **2025. 12. 14. 23:59 (estimated)** - (end of semester)
 
 Send your homework to the teacher who is responsible for your project! ***Please make the title of your mail your Neptun-code.***
 
