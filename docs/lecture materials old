@@ -1,0 +1,13 @@
+- 01  [Course introduction](https://docs.google.com/presentation/d/1DP86slfNUrP4JgOh1aQSDUdtzhNTfruM/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) **UPDATED: 2023. 09. 15.**
+- 02 [Unsupervised & clustering](https://docs.google.com/presentation/d/1fdPCJLBEL4LN5ksIBiTBIwL2152M7lG6/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) **UPDATED: 2023. 09. 20.**
+- 03 [Supervised learning](https://docs.google.com/presentation/d/1OFhtZAnDHPFE5-q3DwA-MGlyVlF4kF80/edit?usp=sharing&ouid=114721520740687989351&rtpof=true&sd=true) **UPDATED: 2023. 09. 26.**
+- 04 [Linear regression](https://docs.google.com/presentation/d/1H_j8wf_UlAp6znGROrpiGDuKOHu72qJan18TPo1GAZo/edit?usp=sharing) **UPDATED: 2023. 10. 04.**
+- 05 [Linear methods for classification, model validation](https://docs.google.com/presentation/d/1SWKjur-qsKv2V_eXKc4RryJmaSaMaL43PMzK6_TijRE/edit?usp=sharing) **UPDATED: 2023. 10. 11.**
+- 06 [Regularization, model selection](https://docs.google.com/presentation/d/10mD1qAkoHCkCwdtQ5IskrFxCfeUDipoZpkQAH6xAjk0/edit?usp=sharing) **UPDATED: 2023. 10. 11.**
+- 07 [SVM](https://docs.google.com/presentation/d/1W7oHK418W3WF8p3RCgyaQdw59YSHLDZb/edit?usp=sharing&ouid=113919100217127339445&rtpof=true&sd=true) **UPDATED: 2023. 10. 25.**
+- 08 [Tree models](https://docs.google.com/presentation/d/1rBT5MLTraEZeo8fnQJAGWH0LZXakGyUXZmkQUVM8DKc/edit?usp=sharing) **UPDATED: 2023. 10. 25.**
+- 09 [Fully connected neural networks](https://docs.google.com/presentation/d/11kwtZrHDGfX0kmHNQHyQsHhU5xgqWplGIaQdhNSHR4k/edit?usp=sharing)
+- 10 [Convolutional neural networks](https://docs.google.com/presentation/d/1X70iVry2ZruFZPobMLSJXstw8d3bj-Vl7UC9dQ5SSec/edit?usp=sharing)
+- 11 [More neural networks](https://docs.google.com/presentation/d/1OHmokXwjopyW3DDUI24o7mpBeRXfZDP1JC3yQeIYU8M/edit?usp=sharing)
+- 12 [Simple OCR end-to-end example](https://github.com/qbeer/simple-ocr) **UPDATED: 2023. 11. 29.** -> the whole github repository \w everything attached also for lecture 13!
+- 13 [Word embedding, RNNs](https://docs.google.com/presentation/d/18ZgQgxiT0x3AtuFBiS6RMQ0QSxFhscEq5itDH-5iNEQ/edit?usp=sharing) - [example1](https://github.com/patbaa/demo_notebooks/blob/master/train_word2vec.ipynb), [example2](https://github.com/patbaa/demo_notebooks/blob/master/play_word2vec.ipynb)
