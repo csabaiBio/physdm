@@ -1,6 +1,7 @@
  - Homeworks could be completed on [Google Colab](https://colab.research.google.com/) or locally on your machine via installing [Anaconda](https://www.anaconda.com/products/individual)
- - Lecture: Thursday (13h-15h)
+ - Lecture: Wednesday (13h-16h)
  - Location: 5.56
+
 #### Personal Q&A
 My room is in 6.102 you can come to me with questions if needed. If you feel that you are stuck or need help with something (guidance, not pair programming) feel free to reach out to us. For additional requests email us.
 
