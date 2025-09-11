@@ -27,10 +27,37 @@ Note: This is not the final version. Might be updated.
 
 ### Lecture materials:
 Will be updated during semester.
-- 01 [Course introduction, supervised and unsupervised learning](https://docs.google.com/presentation/d/1lSbuPYeAE1cJC9vqiN6xOmOAB_Z-1Bt4/edit?usp=sharing&ouid=111142159706839914903&rtpof=true&sd=true)
+- 01 [Machine learning basics](https://docs.google.com/presentation/d/1lSbuPYeAE1cJC9vqiN6xOmOAB_Z-1Bt4/edit?usp=sharing&ouid=111142159706839914903&rtpof=true&sd=true)
+
+## Schedule:
+### Theory
+- Machine learning basics (2025.09.10)
+    - Course introduction 
+    - Supervised learning
+    - Unsupervised learning  
+- Regression (2025.09.17)
+    - Linear regression
+    - Regularization
+    - Linear regression to classification
+- Machine learning algorithms (2025.09.24)
+    - Suport Vector Machines
+    - Tree based models
+    - Clustering
+- Deep Learning (2025.10.05)
+    - Multi layer perceptron
+    - Optimization
+    - Convolutional Neural Networks
+- More on deep learning (2025.10.12)
+    - Layers for optimization
+    - RNN
+    - NLP basics
+
+### Practice
+Every week in the time of the lecture, excluding theory days. This year the practice is optional but highly recommended. 
 
 
-### Lab materials
+
+## Lab materials
 The home works from previous year. Due to the change of the structure of this lecture these are materials for you to practice.
 
 | Number (#) | misc. | homework | info | solution |
@@ -68,18 +95,19 @@ Final scores: QS-PR_1 (4) + PR_1 (21) + QS-PR_2 (4) + PR_2 (21) = 50
 Students also have to defend their coursework in an oral defense, in which we want to make sure you understand your submitied project.
 
 ## Deadlines:
+
 First project progress report deadline: **2025. 10. 4. 23:59 (estimated)** - short email describing what you have achived thus far and zipped project files (without data if large)
 First project deadline: **2025. 11. 02. 23:59 (estimated)** - (end of fall break)
 
-Examplary reports of the first projects, these are some to strive for:
+Second progress report deadline: **2025. 11. 15. 23:59 (estimated)** - same as previous
+Second project deadline: **2025. 12. 13. 23:59 (estimated)** - (end of semester)
 
+Examplary reports of the first projects, these are some to strive for:
 * [SDSS](./lab/examplary_full_report_SDSS.pdf) **best overall**
 * [POLLUTION](./lab/examplery_eda_POLLUTION.pdf) very good and informative EDA
 * [POLLUTION](./lab/exemplary_full_report_POLLUTION2.pdf) very good overall work
 * [SPOTIFY](./lab/exemplary_full_report_SPOTIFY.pdf) very good overall work
 
-Second progress report deadline: **2025. 11. 15. 23:59 (estimated)** - same as previous
-Second project deadline: **2025. 12. 14. 23:59 (estimated)** - (end of semester)
 
 Send your homework to the teacher who is responsible for your project! ***Please make the title of your mail your Neptun-code.***
 
