@@ -22,7 +22,6 @@ your comment goes here
 and here
 -->
 [Project LIST](https://docs.google.com/spreadsheets/d/1-Ym1Fh9NAyFgYSY1oWNvCC2elpByLWWY/edit?usp=sharing&ouid=111142159706839914903&rtpof=true&sd=true)  
-Note: This is not the final version. Might be updated.
 
 ### Lecture materials:
 Will be updated during semester.
