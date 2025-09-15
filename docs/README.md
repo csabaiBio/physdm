@@ -11,13 +11,12 @@ My room is in 6.102 you can come to me with questions if needed. If you feel tha
 Please try to select a project based on your personal interest! Each project will have 3 slots which
 will be handed out on a 'first come, first served' basis! -> email: dudas.bence@ttk.elte.hu
 #### Contacts 
-Ágnes Becsei: agnes.becsei@ttk.elte.hu    
-Zoltán Kovács: k.ztoli17@gmail.com  
-List of teachers may be updated soon.
+Ágnes Becsei: agnes.becsei@ttk.elte.hu | Task 1,2 
+Deutsch Norber: norbert.deutsch@ttk.elte.hu | Task 3,4
+Bendegúz Borkovits: borbende@phys-gs.elte.hu | Task 5,6,7
+Zoltán Kovács: k.ztoli17@gmail.com | 8,9,10
 
-This is an updated list for the second project.  
-Personal project suggestions are welcome:
-
+Personal project suggestions are welcome!  
 <!---
 your comment goes here
 and here
@@ -97,10 +96,10 @@ Students also have to defend their coursework in an oral defense, in which we wa
 ## Deadlines:
 
 First project progress report deadline: **2025. 10. 4. 23:59 (estimated)** - short email describing what you have achived thus far and zipped project files (without data if large)
-First project deadline: **2025. 11. 02. 23:59 (estimated)** - (end of fall break)
+First project deadline: **2025. 11. 02. 23:59** - (end of fall break)
 
-Second progress report deadline: **2025. 11. 15. 23:59 (estimated)** - same as previous
-Second project deadline: **2025. 12. 13. 23:59 (estimated)** - (end of semester)
+Second progress report deadline: **2025. 11. 15. 23:59 ** - same as previous
+Second project deadline: **2025. 12. 13. 23:59** - (end of semester)
 
 Examplary reports of the first projects, these are some to strive for:
 * [SDSS](./lab/examplary_full_report_SDSS.pdf) **best overall**
