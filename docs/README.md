@@ -11,10 +11,10 @@ My room is in 6.102 you can come to me with questions if needed. If you feel tha
 Please try to select a project based on your personal interest! Each project will have 3 slots which
 will be handed out on a 'first come, first served' basis! -> email: dudas.bence@ttk.elte.hu
 #### Contacts 
-Ágnes Becsei: agnes.becsei@ttk.elte.hu | Task 1,2 
-Deutsch Norber: norbert.deutsch@ttk.elte.hu | Task 3,4
-Bendegúz Borkovits: borbende@phys-gs.elte.hu | Task 5,6,7
-Zoltán Kovács: k.ztoli17@gmail.com | 8,9,10
+Ágnes Becsei: agnes.becsei@ttk.elte.hu | Task 1,2  
+Deutsch Norber: norbert.deutsch@ttk.elte.hu | Task 3,4  
+Bendegúz Borkovits: borbende@phys-gs.elte.hu | Task 5,6,7  
+Zoltán Kovács: k.ztoli17@gmail.com | 8,9,10  
 
 Personal project suggestions are welcome!  
 <!---
