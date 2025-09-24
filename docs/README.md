@@ -27,6 +27,7 @@ and here
 Will be updated during semester.
 - 01 [Machine learning basics](https://docs.google.com/presentation/d/1lSbuPYeAE1cJC9vqiN6xOmOAB_Z-1Bt4/edit?usp=sharing&ouid=111142159706839914903&rtpof=true&sd=true)  
 - 02 [Regression](https://docs.google.com/presentation/d/1AN9iac8LM4fdlNZUMN8blPwY6vpG09aw/edit?usp=sharing&ouid=111142159706839914903&rtpof=true&sd=true)  
+- 03 [ML methods](https://docs.google.com/presentation/d/1r469aT48uI1RlsO-X4nj5RwDILuXkfUn/edit?usp=sharing&ouid=111142159706839914903&rtpof=true&sd=true)
 
 ## Schedule:
 ### Theory
