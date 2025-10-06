@@ -43,11 +43,11 @@ Will be updated during semester.
     - Suport Vector Machines
     - Tree based models
     - Clustering
-- Deep Learning (2025.10.05)
+- Deep Learning (2025.11.05)
     - Multi layer perceptron
     - Optimization
     - Convolutional Neural Networks
-- More on deep learning (2025.10.12)
+- More on deep learning (2025.11.12)
     - Layers for optimization
     - RNN
     - NLP basics
