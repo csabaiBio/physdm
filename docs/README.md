@@ -29,6 +29,7 @@ Will be updated during semester.
 - 02 [Regression](https://docs.google.com/presentation/d/1AN9iac8LM4fdlNZUMN8blPwY6vpG09aw/edit?usp=sharing&ouid=111142159706839914903&rtpof=true&sd=true)  
 - 03 [ML methods](https://docs.google.com/presentation/d/1r469aT48uI1RlsO-X4nj5RwDILuXkfUn/edit?usp=sharing&ouid=111142159706839914903&rtpof=true&sd=true)
 - 04 [Deep Learning](https://docs.google.com/presentation/d/1x5G56TyPpRKhUuB8Q8Hzog4ok6BQ0t4O/edit?usp=sharing&ouid=111142159706839914903&rtpof=true&sd=true)
+- 05 [More Deep Learning](https://docs.google.com/presentation/d/1K9ClcX1xJ5-JdoLvlwhYDQCW_0_oN245/edit?usp=sharing&ouid=111142159706839914903&rtpof=true&sd=true)
 
 ## Schedule:
 ### Theory
