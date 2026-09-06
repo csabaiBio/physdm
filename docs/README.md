@@ -1,5 +1,5 @@
  - Homeworks could be completed on [Google Colab](https://colab.research.google.com/) or locally on your machine via installing [Anaconda](https://www.anaconda.com/products/individual)
- - Lecture: Wednesday (13h-16h)
+ - Lecture: Thursday (14h-17h)
  - Location: 5.56
 
 #### Personal Q&A
@@ -11,10 +11,11 @@ My room is in 6.102 you can come to me with questions if needed. If you feel tha
 Please try to select a project based on your personal interest! Each project will have 3 slots which
 will be handed out on a 'first come, first served' basis! -> email: dudas.bence@ttk.elte.hu
 #### Contacts 
-Ágnes Becsei: agnes.becsei@ttk.elte.hu | Task 1,2  
-Deutsch Norber: norbert.deutsch@ttk.elte.hu | Task 3,4  
-Bendegúz Borkovits: borbende@phys-gs.elte.hu | Task 5,6,7  
-Zoltán Kovács: k.ztoli17@gmail.com | 8,9,10  
+Deutsch Norber: norbert.deutsch@ttk.elte.hu | Task 1,2  
+Ágnes Becsei: agnes.becsei@ttk.elte.hu | Task 3,4  
+Bendegúz Borkovits: borbende@phys-gs.elte.hu | Task 5,6
+Regina Fiam: fregina@student.elte.hu | 7,8
+Zoltán Kovács: k.ztoli17@gmail.com | 9,10  
 
 Personal project suggestions are welcome!  
 <!---
@@ -33,23 +34,23 @@ Will be updated during semester.
 
 ## Schedule:
 ### Theory
-- Machine learning basics (2025.09.10)
+- Machine learning basics (2026.09.10)
     - Course introduction 
     - Supervised learning
     - Unsupervised learning  
-- Regression (2025.09.17)
+- Regression (2026.09.17)
     - Linear regression
     - Regularization
     - Linear regression to classification
-- Machine learning algorithms (2025.09.24)
+- Machine learning algorithms (2026.09.24)
     - Suport Vector Machines
     - Tree based models
     - Clustering
-- Deep Learning (2025.11.05)
+- Deep Learning (2026.11.05)
     - Multi layer perceptron
     - Optimization
     - Convolutional Neural Networks
-- More on deep learning (2025.11.12)
+- More on deep learning (2026.11.12)
     - Layers for optimization
     - RNN
     - NLP basics
@@ -98,11 +99,11 @@ Students also have to defend their coursework in an oral defense, in which we wa
 
 ## Deadlines:
 
-First project progress report deadline: **2025. 10. 4. 23:59 (estimated)** - short email describing what you have achived thus far and zipped project files (without data if large)
-First project deadline: **2025. 11. 02. 23:59** - (end of fall break)
+First project progress report deadline: **TBA** - short email describing what you have achived thus far and zipped project files (without data if large)
+First project deadline: **TBA** - (end of fall break)
 
-Second progress report deadline: **2025. 11. 15. 23:59 ** - same as previous
-Second project deadline: **2025. 12. 13. 23:59** - (end of semester)
+Second progress report deadline: **TBA ** - same as previous
+Second project deadline: **TBA** - (end of semester)
 
 Examplary reports of the first projects, these are some to strive for:
 * [SDSS](./lab/examplary_full_report_SDSS.pdf) **best overall**
