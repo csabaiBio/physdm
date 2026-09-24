@@ -99,11 +99,11 @@ Students also have to defend their coursework in an oral defense, in which we wa
 
 ## Deadlines:
 
-First project progress report deadline: **TBA** - short email describing what you have achived thus far and zipped project files (without data if large)
-First project deadline: **TBA** - (end of fall break)
+First project progress report deadline: 2026.10.08. - short email describing what you have achived thus far and zipped project files (without data if large)  
+First project deadline: 2026.10.31. - (end of fall break)  
 
-Second progress report deadline: **TBA ** - same as previous
-Second project deadline: **TBA** - (end of semester)
+Second progress report deadline: 2026.11.26  
+Second project deadline: 2026.12.12 - (end of semester)  
 
 Examplary reports of the first projects, these are some to strive for:
 * [SDSS](./lab/examplary_full_report_SDSS.pdf) **best overall**
