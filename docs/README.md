@@ -14,7 +14,7 @@ will be handed out on a 'first come, first served' basis! -> email: dudas.bence@
 Deutsch Norber: norbert.deutsch@ttk.elte.hu | Task 1,2  
 Ágnes Becsei: agnes.becsei@ttk.elte.hu | Task 3,4  
 Bendegúz Borkovits: borbende@phys-gs.elte.hu | Task 5,6  
-Regina Fiam: fregina@student.elte.hu | 7,8  
+Regina Fiam: fregin@student.elte.hu | 7,8  
 Zoltán Kovács: k.ztoli17@gmail.com | 9,10  
 
 Personal project suggestions are welcome!  
